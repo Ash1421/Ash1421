@@ -1,5 +1,3 @@
-Here's an updated readme template with the new details:
-
 # Hi there! 👋 I'm Ash
 
 Welcome to my GitHub profile! I'm a tech enthusiast with a passion for **gaming** 🎮, **open-source projects**, and all things **automation**. I enjoy exploring new tech and optimizing my setup with tools like Docker, Home Assistant, and Raspberry Pi.
@@ -22,6 +20,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for **gaming*
 ### 🌐 Find Me Online
 - 🌍 **[Linktree](https://linktr.ee/Ash1421_)**
 - 💬 **[Discord Server](https://discord.gg/xc4D33wBmA)** - Join me and chat about tech, gaming, or anything cool!
+- 📧 **Business Email**: [ash1421.business@gmail.com](mailto:ash1421.business@gmail.com)
 
 ---
 
@@ -31,6 +30,3 @@ Check out some of my current projects below! I’m always open to new ideas and 
 ---
 
 Thanks for stopping by! 😊 Feel free to connect and follow along on my tech journey!
-
-
-This includes your preferred languages and favorite tools. Let me know if there’s anything else you’d like to add!
