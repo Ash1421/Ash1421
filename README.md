@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Ash1421/assets/AnimatedBanner.gif" alt="Animated Banner - Ash1421" width="800"/>
-</p>
 
 # Hi there! 👋 I'm Ash  
 
