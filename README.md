@@ -5,8 +5,8 @@
 # Hi there! 👋 I'm Ash  
 
 Welcome to my GitHub profile!  
-I'm a **tech enthusiast** passionate about **gaming** 🎮, **open-source projects**, and **automation**.  
-I enjoy optimizing my tech setup with tools like Docker, Home Assistant, and Raspberry Pi.
+I'm a **tech enthusiast** passionate about **gaming** 🎮, **open-source projects**, **automation**, and **Python**.  
+I enjoy optimizing my tech setup with tools like Docker, Home Assistant, Raspberry Pi, and building Python scripts.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=flat-square)  
 ![GitHub Followers](https://img.shields.io/github/followers/Ash1421?style=social)  
@@ -21,6 +21,7 @@ I enjoy optimizing my tech setup with tools like Docker, Home Assistant, and Ras
 ## 🔧 Tech Stack & Interests  
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
@@ -40,58 +41,6 @@ I enjoy optimizing my tech setup with tools like Docker, Home Assistant, and Ras
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash1421&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>  
-
----
-
-## 🎉 Fun Facts  
-
-- 🕹️ I love gaming, especially **RPGs** and **FPS games**.  
-- 🖥️ Currently tinkering with **Raspberry Pi 4**.  
-- 📚 Learning **C#** and **Docker** to build cool stuff!  
-- 🎨 Favorite color: **Purple** 💜.  
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://linktr.ee/Ash1421_">
-    <img src="https://img.shields.io/badge/Linktree-4f9dcb?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-  <a href="https://discord.gg/xc4D33wBmA">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:ash1421.business@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>  
-
----
-
-## 🏆 Achievements  
-
-[![Achievements](https://github-profile-trophy.vercel.app/?username=Ash1421&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/Ash1421/Ash1421/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/Ash1421/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ash1421&repo=project-name&theme=tokyonight" alt="Project Name"/>
-  </a>
-  <a href="https://github.com/Ash1421/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ash1421&repo=another-project&theme=tokyonight" alt="Another Project"/>
-  </a>
-</p>
 
 ---
 
