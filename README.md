@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Ash  
 
 Welcome to my GitHub profile!  
-I'm a **tech enthusiast** passionate about **gaming** 🎮, **open-source projects**, **automation**, and **Python**.  
+I'm a **tech enthusiast** passionate about **gaming**, **open-source projects**, **automation**, and **Python**.  
 I enjoy optimizing my tech setup with tools like Docker, Home Assistant, Raspberry Pi, and building Python scripts.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=flat-square)  
@@ -19,11 +19,13 @@ I enjoy optimizing my tech setup with tools like Docker, Home Assistant, Raspber
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" alt="Jellyfin"/>
+  <img src="https://img.shields.io/badge/SSH-6E4C98?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH"/>
+  <img src="https://img.shields.io/badge/Batch-4EAA25?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Batch"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
 ---
@@ -41,4 +43,4 @@ I enjoy optimizing my tech setup with tools like Docker, Home Assistant, Raspber
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and connect. 😊
+Thanks for visiting my profile! Feel free to check out my repositories.
