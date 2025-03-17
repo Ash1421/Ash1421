@@ -1,9 +1,9 @@
 
 # Hi there! 👋 I'm Ash  
-
 Welcome to my GitHub profile!  
-I'm a **tech enthusiast** passionate about **gaming**, **open-source projects**, **automation**, and **Python**.  
+I'm a **tech enthusiast** passionate about **gaming**, **open-source projects**, **automation**, **Python**, and **cloud computing**.  
 I enjoy optimizing my tech setup with tools like Docker, Home Assistant, Raspberry Pi, and building Python scripts.
+I'm also interested in **machine learning**, and **backend development**.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=flat-square)  
 ![GitHub Followers](https://img.shields.io/github/followers/Ash1421?style=social)  
@@ -26,6 +26,8 @@ I enjoy optimizing my tech setup with tools like Docker, Home Assistant, Raspber
   <img src="https://img.shields.io/badge/Batch-4EAA25?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Batch"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ---
