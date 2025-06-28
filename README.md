@@ -34,6 +34,11 @@ I'm also interested in **machine learning**, and **backend development**.
   <img src="https://img.shields.io/badge/SSH-6E4C98?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH"/>
   <img src="https://img.shields.io/badge/HTTP-005C9C?style=for-the-badge&logo=http&logoColor=white" alt="HTTP/HTTPS"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/DDL-007ACC?style=for-the-badge&logo=azure-data-studio&logoColor=white" alt="DDL"/>
+  <img src="https://img.shields.io/badge/VBS-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" alt="VBS"/>
+  <img src="https://img.shields.io/badge/XML-0078D7?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+  <img src="https://img.shields.io/badge/Zsh-428A8E?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
 ---
