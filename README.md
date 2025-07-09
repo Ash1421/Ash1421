@@ -8,7 +8,7 @@
         I'm also interested in <strong>machine learning</strong>, <strong>front-end development</strong>, and <strong>backend development</strong>.
       </p>
     </td>
-    <td align="right" style="vertical-align: top;">
+    <td align="right">
       <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=flat-square" alt="Visitor Count" /><br><br>
       <img src="https://img.shields.io/github/followers/Ash1421?style=social&color=purple" alt="GitHub Followers" /><br><br>
       <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f" target="_blank" rel="noopener">
