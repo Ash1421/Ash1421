@@ -6,7 +6,7 @@ I'm also interested in **machine learning**, **front-end development**, **backen
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=flat-square" alt="Visitor Count" />
   <img src="https://img.shields.io/github/followers/Ash1421?style=social&color=purple" alt="GitHub Followers" />
-  <img src="https://badges.pufler.dev/repos/Ash1421?color=purple" alt="Repos Badge" />
+  <img src="https://img.shields.io/github/repos/Ash1421?color=purple" alt="Repos Badge" />
 </p>
 
 <p align="center">
