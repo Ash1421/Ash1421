@@ -49,6 +49,21 @@
 
 ---
 
+## ⏱️ Coding Activity (WakaTime)
+
+<p align="center">
+  <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
+    <img src="https://wakatime.com/badge/user/dfdffe14-322b-4a5b-aea8-bfecd3434d3f.svg" alt="WakaTime Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ash1421&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+</p>
+
+---
+
+
 ## 📊 GitHub Stats  
 
 <p align="center">
