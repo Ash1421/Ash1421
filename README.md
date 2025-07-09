@@ -8,15 +8,16 @@
         I'm also interested in <strong>machine learning</strong>, <strong>front-end development</strong>, and <strong>backend development</strong>.
       </p>
     </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=flat-square" alt="Visitor Count" />
-      <img src="https://img.shields.io/github/followers/Ash1421?style=social&color=purple" alt="GitHub Followers" />
-      <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
+    <td align="right" style="vertical-align: top;">
+      <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=flat-square" alt="Visitor Count" /><br><br>
+      <img src="https://img.shields.io/github/followers/Ash1421?style=social&color=purple" alt="GitHub Followers" /><br><br>
+      <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f" target="_blank" rel="noopener">
         <img src="https://wakatime.com/badge/user/dfdffe14-322b-4a5b-aea8-bfecd3434d3f.svg" alt="WakaTime Badge" />
       </a>
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=9B59B6&center=true&lines=Hi+there!+I'm+Ash+👋;Tech+enthusiast+and+gamer;Always+learning+new+things!" alt="Typing SVG">
