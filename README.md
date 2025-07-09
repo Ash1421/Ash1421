@@ -11,7 +11,7 @@
     <td align="right" style="vertical-align: top;">
       <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=flat-square" alt="Visitor Count" />
       <img src="https://img.shields.io/github/followers/Ash1421?style=social&color=purple" alt="GitHub Followers" />
-      <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f" target="_blank" rel="noopener">
+      <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
         <img src="https://wakatime.com/badge/user/dfdffe14-322b-4a5b-aea8-bfecd3434d3f.svg" alt="WakaTime Badge" />
       </a>
     </td>
