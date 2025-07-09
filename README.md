@@ -1,13 +1,19 @@
-# Hi there! 👋 I'm Ash  
-Welcome to my GitHub profile!  
-I'm a **tech enthusiast** passionate about **gaming**, **open-source projects**, **automation** and **cloud computing**.
-I'm also interested in **machine learning**, **front-end development**, **backend development**.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=flat-square" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/Ash1421?style=social&color=purple" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/repos/Ash1421?color=purple" alt="Repos Badge" />
-</p>
+<table width="100%">
+  <tr>
+    <td>
+      <h1>Hi there! 👋 I'm Ash</h1>
+      <p>
+        Welcome to my GitHub profile! <br>
+        I'm a <strong>tech enthusiast</strong> passionate about <strong>gaming</strong>, <strong>open-source projects</strong>, <strong>automation</strong>, and <strong>cloud computing</strong>.<br>
+        I'm also interested in <strong>machine learning</strong>, <strong>front-end development</strong>, and <strong>backend development</strong>.
+      </p>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=flat-square" alt="Visitor Count" />
+      <img src="https://img.shields.io/github/followers/Ash1421?style=social&color=purple" alt="GitHub Followers" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=9B59B6&center=true&lines=Hi+there!+I'm+Ash+👋;Tech+enthusiast+and+gamer;Always+learning+new+things!" alt="Typing SVG">
