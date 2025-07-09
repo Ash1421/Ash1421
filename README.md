@@ -60,14 +60,8 @@
   <img src="https://img.shields.io/badge/Rust-4A235A?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/PHP-6C3483?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/TypeScript-5A379C?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
----
-
-## ⏱️ Coding Activity (WakaTime)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ash1421&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://img.shields.io/badge/Shell-6A5ACD?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
+  <img src="https://img.shields.io/badge/Lua-7D3C98?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
 </p>
 
 ---
