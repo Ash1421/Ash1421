@@ -27,41 +27,34 @@
 
 ## 🔧 Tech Stack & Interests    
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-800080?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Swift-9B59B6?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-8E44AD?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-7D3C98?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/CSS-6C3483?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/HTML-7D3C98?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/SQL-5B2C6F?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JSON-4A235A?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/YAML-512E5F?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
-  <img src="https://img.shields.io/badge/PowerShell-6C3483?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-6A5ACD?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Batch-593196?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Batch"/>
-  <img src="https://img.shields.io/badge/SSH-6E4C98?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH"/>
-  <img src="https://img.shields.io/badge/HTTP-5A379C?style=for-the-badge&logo=http&logoColor=white" alt="HTTP/HTTPS"/>
-  <img src="https://img.shields.io/badge/Docker-5A33A3?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%23-800080?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/DDL-6A5ACD?style=for-the-badge&logo=azure-data-studio&logoColor=white" alt="DDL"/>
+  <img src="https://img.shields.io/badge/Docker-5A33A3?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/FTP-6C3483?style=for-the-badge&logo=ftp&logoColor=white" alt="FTP"/>
+  <img src="https://img.shields.io/badge/Go-512E5F?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/HTTP-5A379C?style=for-the-badge&logo=http&logoColor=white" alt="HTTP/HTTPS"/>
+  <img src="https://img.shields.io/badge/Java-8E44AD?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JSON-4A235A?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+  <img src="https://img.shields.io/badge/JS-7D3C98?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Kotlin-7B68EE?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Lua-7D3C98?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/PowerShell-6C3483?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SSH-6E4C98?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH"/>
+  <img src="https://img.shields.io/badge/SQL-5B2C6F?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Swift-9B59B6?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/TCP-7D3C98?style=for-the-badge&logo=tcp&logoColor=white" alt="TCP"/>
+  <img src="https://img.shields.io/badge/UDP-8A2BE2?style=for-the-badge&logo=udp&logoColor=white" alt="UDP"/>
   <img src="https://img.shields.io/badge/VBS-7B68EE?style=for-the-badge&logo=visual-basic&logoColor=white" alt="VBS"/>
   <img src="https://img.shields.io/badge/XML-6A5ACD?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+  <img src="https://img.shields.io/badge/YAML-512E5F?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
   <img src="https://img.shields.io/badge/Zsh-7D3C98?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh"/>
-  <img src="https://img.shields.io/badge/Bash-6A5ACD?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/git-5A379C?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/gitconfig-6A5ACD?style=for-the-badge&logo=git&logoColor=white" alt="Git Config"/>
-  <img src="https://img.shields.io/badge/Kubernetes-7A3E98?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Node.js-6E4C98?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/NPM-593196?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-  <img src="https://img.shields.io/badge/Makefile-6A5ACD?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefile"/>
-  <img src="https://img.shields.io/badge/Kotlin-7B68EE?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Go-512E5F?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Rust-4A235A?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/PHP-6C3483?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/TypeScript-5A379C?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Shell-6A5ACD?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
-  <img src="https://img.shields.io/badge/Lua-7D3C98?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
 </p>
 
 ---
