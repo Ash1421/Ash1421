@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/XML-6A5ACD?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
   <img src="https://img.shields.io/badge/Zsh-7D3C98?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh"/>
   <img src="https://img.shields.io/badge/Bash-6A5ACD?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/git-5A379C?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/gitconfig-6A5ACD?style=for-the-badge&logo=git&logoColor=white" alt="Git Config"/>
 </p>
 
 ---
