@@ -29,7 +29,7 @@
     <tr>
       <td style="border: 1px solid #ddd; padding: 10px;">
         <h1>Code Stack & Interests</h1>
-        <h4>I have used such of these languages in any way such as coding, compling, debugging. I may not fully now all of these but have knowlage on them.</h3>
+        <h4>I have used such of these languages in any way such as coding, compling, debugging. I may not fully know all of these but have knowlage on them.</h3>
       </td>
     </tr>
   </table>
