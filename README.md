@@ -9,37 +9,92 @@
       </p>
     </td>
     <td align="right" style="vertical-align: top;">
-      <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=flat-square" alt="Visitor Count" />
-      <img src="https://img.shields.io/github/followers/Ash1421?style=social&color=purple" alt="GitHub Followers" />
-      <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
-        <img src="https://wakatime.com/badge/user/dfdffe14-322b-4a5b-aea8-bfecd3434d3f.svg" alt="WakaTime Badge" />
+      <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=for-the-badge" alt="Visitor Count" />
+      <img src="https://img.shields.io/github/followers/Ash1421?style=for-the-badge&color=purple&logo=github" alt="GitHub Followers" />
+        <a href="https://github.com/Ash1421?tab=stars">
+      <img src="https://img.shields.io/github/stars/Ash1421?style=for-the-badge&color=purple&logo=github" alt="GitHub Stars" />
+      </a>
+        <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
+      <img src="https://wakatime.com/badge/user/dfdffe14-322b-4a5b-aea8-bfecd3434d3f.svg?style=for-the-badge&color=9B59B6&label=Code%20Time" alt="WakaTime Code Time" />
+      </a>
+        <a href="https://discord.com/users/730744444134433994">
+      <img src="https://img.shields.io/badge/Discord%20User-@ash1421-7D39D6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord User @ash1421" />
+      </a>
+      <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge" alt="Built with love" />
+      </a>
+       <a href="https://opensource.org/about">
+      <img src="https://img.shields.io/badge/Open%20Source%20Fan-9B59B6?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source" />
+      </a>
+       <a href="https://ash1421.com">
+      <img src="https://img.shields.io/badge/My%20Website-9B59B6?style=for-the-badge&logo=firefox&logoColor=white" alt="My Website" />
+      </a>
+       <a href="https://www.twitch.tv/ash1421_">
+      <img src="https://img.shields.io/badge/Twitch-9B59B6?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+      </a>
+       <a href="https://x.com/_Ashttv">
+      <img src="https://img.shields.io/badge/X%20/%20Twitter-7D39D6?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+      </a>
+       <a href="https://discord.gg/xc4D33wBmA">
+      <img src="https://img.shields.io/badge/Discord%20Server%20Invite-7D39D6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      </a>
+       <a href="https://bsky.app/profile/ash1421.bsky.social">
+      <img src="https://img.shields.io/badge/Bluesky-6829B1?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+      </a>
+        <a href="https://www.reddit.com/user/Ash1421_/">
+      <img src="https://img.shields.io/badge/Reddit-6829B1?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+      </a>
+        <a href="https://youtube.com/@Ash1421_?sub_confirmation=1">
+      <img src="https://img.shields.io/badge/YouTube-7D39D6?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+      </a>
+       <a href="https://steamcommunity.com/id/Ash1421/">
+      <img src="https://img.shields.io/badge/Steam-6829B1?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
       </a>
     </td>
   </tr>
 </table>
 
+<table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd; padding: 10px;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=9B59B6&center=true&lines=Hi+there!+I'm+Ash+;Tech+enthusiast+and+gamer;Always+learning+new+things!" alt="Typing SVG">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=9B59B6&center=true&lines=Hi+there!+I'm+Ash+👋;Tech+enthusiast+and+gamer;Always+learning+new+things!" alt="Typing SVG">
-</p>
-
+<table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
+  <tr>
+    <th style="border: 1px solid #ddd; padding: 10px;">My Setup </th>
+  </tr>
+  <tr>
+    <td align="left" style="border: 1px solid #ddd; padding: 10px;">
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Pro-9C51E3?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows 11 Pro" /></li>
+        <li><img src="https://img.shields.io/badge/Host-B850M%20EAGLE%20WIFI6E-8F40E0?style=for-the-badge&logo=windows&logoColor=white" alt="Host: B850M EAGLE WIFI6E" /></li>
+        <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(24H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white" alt="Kernel: WIN32_NT 10.0.26100.6584 (24H2)" /></li>
+        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.5.3%20X64-7930DA?style=for-the-badge&logo=powershell&logoColor=white" alt="Shell: PowerShell 7.5.3" /></li>
+        <li><img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%209700X%20(8C16T)%20@%205.55%20GHz-6F28D7?style=for-the-badge&logo=amd&logoColor=white" alt="CPU: AMD Ryzen 7 9700X (8C, 16T) @ 5.55 GHz" /></li>
+        <li><img src="https://img.shields.io/badge/GPU%20Integrated-AMD%20Radeon(TM)%20Graphics%20(512MB)-6320D3?style=for-the-badge&logo=amd&logoColor=white" alt="GPU 1: AMD Radeon(TM) Graphics (512MB)" /></li>
+        <li><img src="https://img.shields.io/badge/GPU%20Dedicated-NVIDIA%20GeForce%20RTX%205060%20Ti%20@%203.09%20GHz%20(16GB)-5720CD?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU 2: NVIDIA GeForce RTX 5060 Ti @ 3.09 GHz (16GB)" /></li>
+        <li><img src="https://img.shields.io/badge/RAM-GSkill%2032GB%20DDR5%20(6000%20MT/s)-4C1AC0?style=for-the-badge&logo=memory&logoColor=white" alt="RAM: 32GB DDR5 (6000 MT/s)" /></li>
+        <li><img src="https://img.shields.io/badge/Network%20&%20Internet%20Connection-2.5g%20NIC%20|%20ISP%20(~100/~500)-4013A7?style=for-the-badge&logo=network-wifi&logoColor=white" alt="Network: 2.5g NIC (~100/~500)" /></li>
+        <li><img src="https://img.shields.io/badge/Code%20Editor-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <div align="center">
-
-  <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 10px;">
-        <h1>Code Stack & Interests</h1>
-        <h4>I have used such of these languages in any way such as coding, compling, debugging. I may not fully know all of these but have knowlage on them.</h3>
-      </td>
-    </tr>
-  </table>
-
   <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
     <tr>
       <th style="border: 1px solid #ddd; padding: 10px;">Category</th>
-      <th style="border: 1px solid #ddd; padding: 10px;">Technologies</th>
+      <th style="border: 1px solid #ddd; padding: 10px;">Tech Stack & Interests</th>
     </tr>
     <tr>
+      <td colspan="2" style="padding: 10px;">
+        <h3 style="padding: 10px;">
+          I don't own or know all of the languages and frameworks, hardware, software, products, or anything metioned below but i have learned some of them partially and used most of them and own some of there products.
+        </h3>
+      </td>
+    </tr>
       <td style="border: 1px solid #ddd; padding: 10px;">
         <p><strong style="color:#3D0066; font-size:1.1em;">Programming Languages</strong></p>
       </td>
@@ -104,17 +159,28 @@
         <img src="https://img.shields.io/badge/SQL-7839D5?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
       </td>
     </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 10px;">
+        <p><strong style="color:#8B3D6E; font-size:1.1em;">Hardware & Companies</strong></p>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 10px;">
+        <img src="https://img.shields.io/badge/NVIDIA-8B3D6E?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
+        <img src="https://img.shields.io/badge/Ryzen-8B3D6E?style=for-the-badge&logo=amd&logoColor=white" alt="Ryzen" />
+        <img src="https://img.shields.io/badge/Intel-8B3D6E?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" />
+        <img src="https://img.shields.io/badge/Cisco-8B3D6E?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+        <img src="https://img.shields.io/badge/Fortinet-8B3D6E?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
+        <img src="https://img.shields.io/badge/Ubiqiti-8B3D6E?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiqiti" />
+        <img src="https://img.shields.io/badge/Raspberry%20Pi-8B3D6E?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+        <img src="https://img.shields.io/badge/ASUS-8B3D6E?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS" />
+        <img src="https://img.shields.io/badge/Realtek-8B3D6E?style=for-the-badge&logo=realtek&logoColor=white" alt="Realtek" />
   </table>
-
 </div>
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Discord Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ash1421&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash1421&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>  
+  <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=161b22&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Away" alt="Discord Presence" height="150"/>
+</p>
 
----
-
-<h4>Thanks for visiting my profile. Feel free to check out my repositories.</h4>
