@@ -9,8 +9,11 @@
       </p>
     </td>
     <td align="right" style="vertical-align: top;">
+        <a href="https://github.com/Ash1421/Ash1421"/>
       <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=for-the-badge" alt="Visitor Count" />
+      </a>
       <img src="https://img.shields.io/github/followers/Ash1421?style=for-the-badge&color=purple&logo=github" alt="GitHub Followers" />
+      </a>
         <a href="https://github.com/Ash1421?tab=stars">
       <img src="https://img.shields.io/github/stars/Ash1421?style=for-the-badge&color=purple&logo=github" alt="GitHub Stars" />
       </a>
