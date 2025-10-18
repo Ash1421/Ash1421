@@ -73,7 +73,7 @@
       <ul style="list-style: none; padding: 0; margin: 0;">
         <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Pro-9C51E3?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows 11 Pro" /></li>
         <li><img src="https://img.shields.io/badge/Host-B850M%20EAGLE%20WIFI6E-8F40E0?style=for-the-badge&logo=windows&logoColor=white" alt="Host: B850M EAGLE WIFI6E" /></li>
-        <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(24H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white" alt="Kernel: WIN32_NT 10.0.26100.6584 (24H2)" /></li>
+        <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white" alt="Kernel: WIN32_NT (25H2)" /></li>
         <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.5.3%20X64-7930DA?style=for-the-badge&logo=powershell&logoColor=white" alt="Shell: PowerShell 7.5.3" /></li>
         <li><img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%209700X%20(8C16T)%20@%205.55%20GHz-6F28D7?style=for-the-badge&logo=amd&logoColor=white" alt="CPU: AMD Ryzen 7 9700X (8C, 16T) @ 5.55 GHz" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Integrated-AMD%20Radeon(TM)%20Graphics%20(512MB)-6320D3?style=for-the-badge&logo=amd&logoColor=white" alt="GPU 1: AMD Radeon(TM) Graphics (512MB)" /></li>
