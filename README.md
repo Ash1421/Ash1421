@@ -94,7 +94,7 @@
     <tr>
       <td colspan="2" style="padding: 10px;">
         <h3 style="padding: 10px;">
-          I don't own or know all of the languages and frameworks, hardware, software, products, or anything metioned below but i have learned some of them partially and used most of them and own some of there products.
+          I don't own or know all of the languages and frameworks, hardware, software, products, or anything metioned below but I have learned some of them partially and used most of them and own some of their products.
         </h3>
       </td>
     </tr>
@@ -186,4 +186,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash1421&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
   <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=161b22&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Away" alt="Discord Presence" height="150"/>
 </p>
+
+
+
+
 
