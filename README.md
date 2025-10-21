@@ -182,12 +182,36 @@
 ## 📊 GitHub Stats & Discord Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ash1421&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash1421&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-  <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=161b22&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Away" alt="Discord Presence" height="150"/>
+  <img src="https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&layout=compact&theme=tokyonight&stats_format=bytes" alt="Top Languages in Bytes" height="150"/>
+  <img src="https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&theme=tokyonight&langs_count=8" alt="Top 8 Languages" height="150"/>
+  <img src="https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&theme=tokyonight&stats_format=bytes&langs_count=8" alt="Top 8 Languages in Bytes" height="150"/>
+  <img src="https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=tokyonight" alt="Waka Time" height="150"/>
+  <img src="https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=tokyonight&layout=compact&card_width=650" alt="Compact Waka Time" height="150"/>
+  <img src="https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=QuickA-Cleanup&theme=tokyonight" alt="QuickA-Cleanup Pin" height="150"/>
+  <img src="https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=tokyonight" alt="Midnight-Ash Pin" height="150"/>
+   <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=161b22&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Away" alt="Discord Presence" height="150"/>
 </p>
 
+<!--
+To be worked on
+
+https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&layout=compact&theme=tokyonight
+
+https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&layout=compact&theme=tokyonight&stats_format=bytes
+
+https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&theme=tokyonight&langs_count=8
 
 
+https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&theme=tokyonight&stats_format=bytes&langs_count=8
+
+https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=tokyonight
+
+https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=tokyonight&layout=compact&card_width=650
+
+https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=QuickA-Cleanup&theme=tokyonight
+
+https://github-readme-stats-j36jk94fz-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=tokyonight
 
 
+-->
