@@ -21,9 +21,12 @@
       <img src="https://wakatime.com/badge/user/dfdffe14-322b-4a5b-aea8-bfecd3434d3f.svg?style=for-the-badge&color=9B59B6&label=Code%20Time" alt="WakaTime Code Time" />
       </a>
         <a href="https://discord.com/users/730744444134433994">
-      <img src="https://img.shields.io/badge/Discord%20User-@ash1421-7D39D6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord User @ash1421" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F616485235982467085&query=%24.data.discord_status&style=for-the-badge&logo=discord&logoColor=white&label=Discord%20User&suffix=%20|%20@%20Ash1421&color=9B59B6" alt="Discord User @ash1421" />
       </a>
       <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge" alt="Built with love" />
+      </a>
+       <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">
+      <img src="https://img.shields.io/badge/FOSS%20Fan-9B59B6?style=for-the-badge&logo=foss&logoColor=white" alt="FOSS" />
       </a>
        <a href="https://opensource.org/about">
       <img src="https://img.shields.io/badge/Open%20Source%20Fan-9B59B6?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source" />
@@ -38,7 +41,7 @@
       <img src="https://img.shields.io/badge/X%20/%20Twitter-7D39D6?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
       </a>
        <a href="https://discord.gg/xc4D33wBmA">
-      <img src="https://img.shields.io/badge/Discord%20Server%20Invite-7D39D6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/discord/1086533721726922793?style=for-the-badge&logo=discord&logoColor=white&label=Discord%20Server%20Invite&color=7D39D6" alt="Discord Server" />
       </a>
        <a href="https://bsky.app/profile/ash1421.bsky.social">
       <img src="https://img.shields.io/badge/Bluesky-6829B1?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
@@ -59,7 +62,10 @@
 <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <td align="center" style="border: 1px solid #ddd; padding: 10px;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=9B59B6&center=true&lines=Hi+there!+I'm+Ash+;Tech+enthusiast+and+gamer;Always+learning+new+things!" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&color=9B59B6&center=true&lines=Hi+there!+I'm+Ash+;Tech+enthusiast+and+gamer;Always+learning+new+things!" alt="Typing SVG">
+    </td>
+    <td align="center" style="border: 1px solid #ddd; padding: 10px;">
+      <p><strong style="color:#551A8B; font-size:1.1em;">The badges on my profile are clickable.</strong> <br>Some of the stats or status are clickable too!</p>
     </td>
   </tr>
 </table>
@@ -79,6 +85,8 @@
         <li><img src="https://img.shields.io/badge/GPU%20Integrated-AMD%20Radeon(TM)%20Graphics%20(512MB)-6320D3?style=for-the-badge&logo=amd&logoColor=white" alt="GPU 1: AMD Radeon(TM) Graphics (512MB)" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Dedicated-NVIDIA%20GeForce%20RTX%205060%20Ti%20@%203.09%20GHz%20(16GB)-5720CD?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU 2: NVIDIA GeForce RTX 5060 Ti @ 3.09 GHz (16GB)" /></li>
         <li><img src="https://img.shields.io/badge/RAM-GSkill%2032GB%20DDR5%20(6000%20MT/s)-4C1AC0?style=for-the-badge&logo=memory&logoColor=white" alt="RAM: 32GB DDR5 (6000 MT/s)" /></li>
+        <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Kingston%20SNVS2000G%202TB%20NVMe%20SSD-350F94?style=for-the-badge&logo=kingston&logoColor=white" alt="Storage Drive 1: Kingston SNVS2000G 2TB NVMe SSD" /></li>
+        <li><img src="https://img.shields.io/badge/Storage%20Drive%202-Kingston%20SNV3S1000G%201TB%20NVMe%20SSD-4013A7?style=for-the-badge&logo=kingston&logoColor=white" alt="Storage Drive 2: Kingston SNV3S1000G 1TB NVMe SSD" /></li>
         <li><img src="https://img.shields.io/badge/Network%20&%20Internet%20Connection-2.5g%20NIC%20|%20ISP%20(▼~500/~100▲)-4013A7?style=for-the-badge&logo=network-wifi&logoColor=white" alt="Network: 2.5g NIC (▼~500/~100▲)" /></li>
         <li><img src="https://img.shields.io/badge/Code%20Editor-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /></li>
       </ul>
@@ -182,13 +190,30 @@
 ## 📊 GitHub Stats & Discord Status
 
 <p align="center">
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&layout=compact&theme=tokyonight&stats_format=bytes" alt="Top Languages in Bytes"/>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&theme=tokyonight&langs_count=8" alt="Top 8 Languages"/>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&theme=tokyonight&stats_format=bytes&langs_count=8" alt="Top 8 Languages in Bytes"/>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=tokyonight" alt="Waka Time"/>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=tokyonight&layout=compact&card_width=650" alt="Compact Waka Time"/>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=QuickA-Cleanup&theme=tokyonight" alt="QuickA-Cleanup Pin"/>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=tokyonight" alt="Midnight-Ash Pin"/>
-   <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=161b22&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Away" alt="Discord Presence"/>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api?username=Ash1421&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
+
+<p align="center">
+    </a>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true&custom_title=Top%20Languages" alt="Top Languages"/>
+    </a>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&theme=tokyonight&stats_format=bytes&show_icons=true&hide_border=true&layout=compact&count_private=true&custom_title=Top%20Languages%20in%20Bytes" alt="Top Languages in Bytes"/>
+    </a>
+  <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
+    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=tokyonight&layout=compact&card_width=650" alt="Compact Waka Time"/>
+  </a>
+  <a href="https://github.com/Ash1421/QuickA-Cleanup">
+    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=QuickA-Cleanup&theme=tokyonight" alt="QuickA-Cleanup Pin"/>
+  </a>
+  <a href="https://github.com/Ash1421/Midnight-Ash">
+    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=tokyonight" alt="Midnight-Ash Pin"/>
+  </a>
+   <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=161b22&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Idle%20or%20Busy" alt="Discord Presence"/>
+</p>
+
+<!--  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&layout=compact&theme=tokyonight&stats_format=bytes" alt="Top Languages in Bytes"/> -->
+
+<!--  <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
+    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=tokyonight" alt="Waka Time"/>
+  </a> -->
