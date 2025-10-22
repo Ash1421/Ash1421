@@ -4,7 +4,7 @@
       <h1>Hi there! 👋 I'm Ash</h1>
       <p>
         Welcome to my GitHub profile! <br>
-        I'm a <strong>tech enthusiast</strong> passionate about <strong>gaming</strong>, <strong>open-source projects</strong>, <strong>automation</strong>, and <strong>cloud computing</strong>.<br>
+        I'm a <strong>tech enthusiast</strong> passionate about <strong>gaming</strong>, <strong>open-source projects</strong>, <strong>automation/devops</strong>, <strong>foss software</strong>, and <strong>cloud computing</strong>.<br>
         I'm also interested in <strong>machine learning</strong>, <strong>front-end development</strong>, and <strong>backend development</strong>.
       </p>
     </td>
@@ -208,7 +208,7 @@
   <a href="https://github.com/Ash1421/Midnight-Ash">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=tokyonight" alt="Midnight-Ash Pin"/>
   </a>
-   <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=161b22&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Idle%20or%20Busy" alt="Discord Presence"/>
+   <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=161b22&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Offline,%20Idle%20or%20Busy" alt="Discord Presence"/>
 </p>
 
 <!--  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&layout=compact&theme=tokyonight" alt="Top Languages"/>
