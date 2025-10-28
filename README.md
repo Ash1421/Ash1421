@@ -4,7 +4,7 @@
       <h1>Hi there! 👋 I'm Ash</h1>
       <p>
         Welcome to my GitHub profile! <br>
-        I'm a <strong>tech enthusiast</strong> passionate about <strong>gaming</strong>, <strong>open-source projects</strong>, <strong>automation/devops</strong>, <strong>foss software</strong>, and <strong>cloud computing</strong>.<br>kv
+        I'm a <strong>tech enthusiast</strong> passionate about <strong>gaming</strong>, <strong>open-source projects</strong>, <strong>automation/devops</strong>, <strong>foss software</strong>, and <strong>cloud computing</strong>.<br>
         I'm also interested in <strong>machine learning</strong>, <strong>front-end development</strong>, and <strong>backend development</strong>.
       </p>
     </td>
