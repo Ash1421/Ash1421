@@ -72,7 +72,7 @@
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
-    <th style="border: 1px solid #ddd; padding: 10px;">My Setup </th>
+    <th style="border: 1px solid #ddd; padding: 10px;">My Personal Setup </th>
   </tr>
   <tr>
     <td align="left" style="border: 1px solid #ddd; padding: 10px;">
@@ -81,18 +81,41 @@
         <li><img src="https://img.shields.io/badge/Host-B850M%20EAGLE%20WIFI6E-8F40E0?style=for-the-badge&logo=windows&logoColor=white" alt="Host: B850M EAGLE WIFI6E" /></li>
         <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white" alt="Kernel: WIN32_NT (25H2)" /></li>
         <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.5.4%20X64-7930DA?style=for-the-badge&logo=powershell&logoColor=white" alt="Shell: PowerShell 7.5.4 X64" /></li>
-        <li><img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%209700X%20(8C16T)%20@%205.55%20GHz-6F28D7?style=for-the-badge&logo=amd&logoColor=white" alt="CPU: AMD Ryzen 7 9700X (8C, 16T) @ 5.55 GHz" /></li>
+        <li><img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%209700X%20(8C/16T)%20@%205.55%20GHz-6F28D7?style=for-the-badge&logo=amd&logoColor=white" alt="CPU: AMD Ryzen 7 9700X (8C, 16T) @ 5.55 GHz" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Integrated-AMD%20Radeon(TM)%20Graphics%20(512MB)-6320D3?style=for-the-badge&logo=amd&logoColor=white" alt="GPU 1: AMD Radeon(TM) Graphics (512MB)" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Dedicated-NVIDIA%20GeForce%20RTX%205060%20Ti%20@%203.09%20GHz%20(16GB)-5720CD?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU 2: NVIDIA GeForce RTX 5060 Ti @ 3.09 GHz (16GB)" /></li>
         <li><img src="https://img.shields.io/badge/RAM-GSkill%2032GB%20DDR5%20(6000%20MT/s)-4C1AC0?style=for-the-badge&logo=memory&logoColor=white" alt="RAM: 32GB DDR5 (6000 MT/s)" /></li>
         <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Kingston%20SNVS2000G%202TB%20NVMe%20SSD-350F94?style=for-the-badge&logo=kingston&logoColor=white" alt="Storage Drive 1: Kingston SNVS2000G 2TB NVMe SSD" /></li>
         <li><img src="https://img.shields.io/badge/Storage%20Drive%202-Kingston%20SNV3S1000G%201TB%20NVMe%20SSD-4013A7?style=for-the-badge&logo=kingston&logoColor=white" alt="Storage Drive 2: Kingston SNV3S1000G 1TB NVMe SSD" /></li>
         <li><img src="https://img.shields.io/badge/Network%20&%20Internet%20Connection-2.5g%20NIC%20|%20ISP%20(▼~500/~100▲)-4013A7?style=for-the-badge&logo=network-wifi&logoColor=white" alt="Network: 2.5g NIC (▼~500/~100▲)" /></li>
-        <li><img src="https://img.shields.io/badge/Code%20Editor-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /></li>
+        <li><img src="https://img.shields.io/badge/Code%20Editor-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Code Editor: Visual Studio Code" /></li>
       </ul>
     </td>
   </tr>
 </table>
+
+<table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
+  <tr>
+    <th style="border: 1px solid #ddd; padding: 10px;">Laptop / Portable Setup</th>
+  </tr>
+  <tr>
+    <td align="left" style="border: 1px solid #ddd; padding: 10px;">
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Home-9C51E3?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows 11 Home" /></li>
+        <li><img src="https://img.shields.io/badge/Host-Lenovo%2081WA-8F40E0?style=for-the-badge&logo=windows&logoColor=white" alt="Host: Lenovo 81WA" /></li>
+        <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white" alt="Kernel: WIN32_NT (25H2)" /></li>
+        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.5.3%20X64-7930DA?style=for-the-badge&logo=powershell&logoColor=white" alt="Shell: PowerShell 7.5.3 X64" /></li>
+        <li><img src="https://img.shields.io/badge/CPU-Intel%20Core%20i7--10510U%20@%201.8%20GHz%20(4C/8T)-6F28D7?style=for-the-badge&logo=intel&logoColor=white" alt="CPU: Intel Core i7-10510U @ 1.8 GHz (4C, 8T)" /></li>
+        <li><img src="https://img.shields.io/badge/GPU%20Integrated-Intel%20UHD%20Graphics%20(4GB)-6320D3?style=for-the-badge&logo=intel&logoColor=white" alt="GPU (Integrated): Intel UHD Graphics (4GB)" /></li>
+        <li><img src="https://img.shields.io/badge/RAM-Samsung%20M471A5244CB0--CWE%208GB%20DDR4%20(2667%20MT/s)-4C1AC0?style=for-the-badge&logo=memory&logoColor=white" alt="RAM: Samsung M471A5244CB0-CWE 8GB DDR4 (2667 MT/s)" /></li>
+        <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Intel%20SSDPEKNW512GZ%20512%20GB%20NVMe%20SSD-350F94?style=for-the-badge&logo=intel-ssdpeknw&logoColor=white" alt="Storage Drive 1: Intel SSDPEKNW512GZ 512 GB NVMe SSD" /></li>
+        <li><img src="https://img.shields.io/badge/Network%20%26%20Internet%20Connection-Intel%20Wireless--AC%209560%20|%20Wifi%20(▼~120/~100▲)%20-4013A7?style=for-the-badge&logo=wifi&logoColor=white" alt="Network: Intel Wireless-AC 9560 | Wi-Fi (▼~120/~100▲)" /></li>
+        <li><img src="https://img.shields.io/badge/Code%20Editor-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Code Editor: Visual Studio Code" /></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
     <tr>
