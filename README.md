@@ -107,7 +107,7 @@
         <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.5.3%20X64-7930DA?style=for-the-badge&logo=powershell&logoColor=white" alt="Shell: PowerShell 7.5.3 X64" /></li>
         <li><img src="https://img.shields.io/badge/CPU-Intel%20Core%20i7--10510U%20@%201.8%20GHz%20(4C/8T)-6F28D7?style=for-the-badge&logo=intel&logoColor=white" alt="CPU: Intel Core i7-10510U @ 1.8 GHz (4C, 8T)" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Integrated-Intel%20UHD%20Graphics%20(4GB)-6320D3?style=for-the-badge&logo=intel&logoColor=white" alt="GPU (Integrated): Intel UHD Graphics (4GB)" /></li>
-        <li><img src="https://img.shields.io/badge/RAM-Samsung%20M471A5244CB0--CWE%208GB%20DDR4%20(2667%20MT/s)-4C1AC0?style=for-the-badge&logo=memory&logoColor=white" alt="RAM: Samsung M471A5244CB0-CWE 8GB DDR4 (2667 MT/s)" /></li>
+        <li><img src="https://img.shields.io/badge/RAM-Samsung%208GB%20DDR4%20(2667%20MT/s)-4C1AC0?style=for-the-badge&logo=memory&logoColor=white" alt="RAM: Samsung 8GB DDR4 (2667 MT/s)" /></li>
         <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Intel%20SSDPEKNW512GZ%20512%20GB%20NVMe%20SSD-350F94?style=for-the-badge&logo=intel-ssdpeknw&logoColor=white" alt="Storage Drive 1: Intel SSDPEKNW512GZ 512 GB NVMe SSD" /></li>
         <li><img src="https://img.shields.io/badge/Network%20%26%20Internet%20Connection-Intel%20Wireless--AC%209560%20|%20Wifi%20(▼~120/~100▲)%20-4013A7?style=for-the-badge&logo=wifi&logoColor=white" alt="Network: Intel Wireless-AC 9560 | Wi-Fi (▼~120/~100▲)" /></li>
         <li><img src="https://img.shields.io/badge/Code%20Editor-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Code Editor: Visual Studio Code" /></li>
