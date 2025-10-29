@@ -126,6 +126,9 @@
       <td colspan="2" style="padding: 10px;">
         <h3 style="padding: 10px;">
           I don't own or know all of the languages and frameworks, hardware, software, products, or anything metioned below but I have learned some of them partially and used most of them and own some of their products.
+          <br>
+          <br>
+          For the companys and products such as the hardware they make I either own it, have used it, or favorite the company or product. Brands like Steam could include the games that are on it, or some of the hardware they make as a product such as the Steamdeck.
         </h3>
       </td>
     </tr>
@@ -218,6 +221,23 @@
         <img src="https://img.shields.io/badge/Ubiqiti-8B3D6E?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiqiti" />
         <img src="https://img.shields.io/badge/Raspberry%20Pi-8B3D6E?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
         <img src="https://img.shields.io/badge/ASUS-8B3D6E?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS" />
+        <img src="https://img.shields.io/badge/Samsung-8B3D6E?style=for-the-badge&logo=samsung&logoColor=white" alt="Samsung" />
+        <img src="https://img.shields.io/badge/Lenovo-8B3D6E?style=for-the-badge&logo=lenovo&logoColor=white" alt="Lenovo" />
+        <img src="https://img.shields.io/badge/Logitech-8B3D6E?style=for-the-badge&logo=logitech&logoColor=white" alt="Logitech" />
+        <img src="https://img.shields.io/badge/HP-8B3D6E?style=for-the-badge&logo=hp&logoColor=white" alt="HP" />
+        <img src="https://img.shields.io/badge/SteelSeries-8B3D6E?style=for-the-badge&logo=steelseries&logoColor=white" alt="SteelSeries" />
+        <img src="https://img.shields.io/badge/PlayStation-8B3D6E?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
+        <img src="https://img.shields.io/badge/Google-8B3D6E?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+        <img src="https://img.shields.io/badge/Sony-8B3D6E?style=for-the-badge&logo=sony&logoColor=white" alt="Sony" />
+        <img src="https://img.shields.io/badge/LG-8B3D6E?style=for-the-badge&logo=lg&logoColor=white" alt="LG" />
+        <img src="https://img.shields.io/badge/Elgato-8B3D6E?style=for-the-badge&logo=elgato&logoColor=white" alt="Elgato" />
+        <img src="https://img.shields.io/badge/NZXT-8B3D6E?style=for-the-badge&logo=nzxt&logoColor=white" alt="NZXT" />
+        <img src="https://img.shields.io/badge/Epic%20Games-8B3D6E?style=for-the-badge&logo=epic-games&logoColor=white" alt="Epic Games" />
+        <img src="https://img.shields.io/badge/Steam-8B3D6E?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+        <img src="https://img.shields.io/badge/Rockstar%20Games-8B3D6E?style=for-the-badge&logo=rockstar-games&logoColor=white" alt="Rockstar Games" />
+        <img src="https://img.shields.io/badge/Electronic%20Arts-8B3D6E?style=for-the-badge&logo=electronic-arts&logoColor=white" alt="Electronic Arts" />
+        <img src="https://img.shields.io/badge/Nintendo-8B3D6E?style=for-the-badge&logo=nintendo&logoColor=white" alt="Nintendo" />
+        <img src="https://img.shields.io/badge/Xbox-8B3D6E?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" />
         <img src="https://img.shields.io/badge/EVGA-8B3D6E?style=for-the-badge&logo=evga&logoColor=white" alt="EVGA" />
         <img src="https://img.shields.io/badge/GSkill-8B3D6E?style=for-the-badge&logo=gskill&logoColor=white" alt="GSkill" />
         <img src="https://img.shields.io/badge/Kingston-8B3D6E?style=for-the-badge&logo=kingston&logoColor=white" alt="Kingston" />
