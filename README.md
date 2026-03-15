@@ -10,7 +10,7 @@
     </td>
     <td align="right" style="vertical-align: top;">
         <a href="https://github.com/Ash1421/Ash1421"/>
-      <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=for-the-badge" alt="Visitor Count" />
+      <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
       </a>
       <img src="https://img.shields.io/github/followers/Ash1421?style=for-the-badge&color=purple&logo=github" alt="GitHub Followers" />
       </a>
@@ -80,15 +80,15 @@
         <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Pro-9C51E3?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows 11 Pro" /></li>
         <li><img src="https://img.shields.io/badge/Host-B850M%20EAGLE%20WIFI6E-8F40E0?style=for-the-badge&logo=windows&logoColor=white" alt="Host: B850M EAGLE WIFI6E" /></li>
         <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white" alt="Kernel: WIN32_NT (25H2)" /></li>
-        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.5.4%20X64-7930DA?style=for-the-badge&logo=powershell&logoColor=white" alt="Shell: PowerShell 7.5.4 X64" /></li>
+        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.5.5%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white" alt="Shell: PowerShell 7.5.5 X64" /></li>
         <li><img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%209700X%20(8C/16T)%20@%205.55%20GHz-6F28D7?style=for-the-badge&logo=amd&logoColor=white" alt="CPU: AMD Ryzen 7 9700X (8C, 16T) @ 5.55 GHz" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Integrated-AMD%20Radeon(TM)%20Graphics%20(512MB)-6320D3?style=for-the-badge&logo=amd&logoColor=white" alt="GPU 1: AMD Radeon(TM) Graphics (512MB)" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Dedicated-NVIDIA%20GeForce%20RTX%205060%20Ti%20@%203.09%20GHz%20(16GB)-5720CD?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU 2: NVIDIA GeForce RTX 5060 Ti @ 3.09 GHz (16GB)" /></li>
         <li><img src="https://img.shields.io/badge/RAM-GSkill%2032GB%20DDR5%20(6000%20MT/s)-4C1AC0?style=for-the-badge&logo=memory&logoColor=white" alt="RAM: 32GB DDR5 (6000 MT/s)" /></li>
         <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Kingston%20SNVS2000G%202TB%20NVMe%20SSD-350F94?style=for-the-badge&logo=kingston&logoColor=white" alt="Storage Drive 1: Kingston SNVS2000G 2TB NVMe SSD" /></li>
         <li><img src="https://img.shields.io/badge/Storage%20Drive%202-Kingston%20SNV3S1000G%201TB%20NVMe%20SSD-4013A7?style=for-the-badge&logo=kingston&logoColor=white" alt="Storage Drive 2: Kingston SNV3S1000G 1TB NVMe SSD" /></li>
-        <li><img src="https://img.shields.io/badge/Network%20&%20Internet%20Connection-2.5g%20NIC%20|%20ISP%20(▼~300/~100▲)-4013A7?style=for-the-badge&logo=network-wifi&logoColor=white" alt="Network: 2.5g NIC (▼~300/~100▲)" /></li>
-        <li><img src="https://img.shields.io/badge/Code%20Editor-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Code Editor: Visual Studio Code" /></li>
+        <li><img src="https://img.shields.io/badge/Network%20&%20Internet%20Connection-2.5g%20NIC%20|%20ISP%20(▼~500/~100▲)-4013A7?style=for-the-badge&logo=network-wifi&logoColor=white" alt="Network: 2.5g NIC (▼~500/~100▲)" /></li>
+        <li><img src="https://img.shields.io/badge/Main%20IDE-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Main IDE: Visual Studio Code" /></li>
       </ul>
     </td>
   </tr>
@@ -104,13 +104,13 @@
         <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Home-9C51E3?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows 11 Home" /></li>
         <li><img src="https://img.shields.io/badge/Host-Lenovo%2081WA-8F40E0?style=for-the-badge&logo=windows&logoColor=white" alt="Host: Lenovo 81WA" /></li>
         <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white" alt="Kernel: WIN32_NT (25H2)" /></li>
-        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.5.4%20X64-7930DA?style=for-the-badge&logo=powershell&logoColor=white" alt="Shell: PowerShell 7.5.4 X64" /></li>
+        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.5.5%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white" alt="Shell: PowerShell 7.5.5 X64" /></li>
         <li><img src="https://img.shields.io/badge/CPU-Intel%20Core%20i7--10510U%20@%201.8%20GHz%20(4C/8T)-6F28D7?style=for-the-badge&logo=intel&logoColor=white" alt="CPU: Intel Core i7-10510U @ 1.8 GHz (4C, 8T)" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Integrated-Intel%20UHD%20Graphics%20(4GB)-6320D3?style=for-the-badge&logo=intel&logoColor=white" alt="GPU (Integrated): Intel UHD Graphics (4GB)" /></li>
         <li><img src="https://img.shields.io/badge/RAM-Samsung%208GB%20DDR4%20(2667%20MT/s)-4C1AC0?style=for-the-badge&logo=memory&logoColor=white" alt="RAM: Samsung 8GB DDR4 (2667 MT/s)" /></li>
         <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Intel%20SSDPEKNW512GZ%20512%20GB%20NVMe%20SSD-350F94?style=for-the-badge&logo=intel-ssdpeknw&logoColor=white" alt="Storage Drive 1: Intel SSDPEKNW512GZ 512 GB NVMe SSD" /></li>
         <li><img src="https://img.shields.io/badge/Network%20%26%20Internet%20Connection-Intel%20Wireless--AC%209560%20|%20Wifi%20(▼~120/~100▲)%20-4013A7?style=for-the-badge&logo=wifi&logoColor=white" alt="Network: Intel Wireless-AC 9560 | Wi-Fi (▼~120/~100▲)" /></li>
-        <li><img src="https://img.shields.io/badge/Code%20Editor-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Code Editor: Visual Studio Code" /></li>
+        <li><img src="https://img.shields.io/badge/Main%20IDE-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Main IDE: Visual Studio Code" /></li>
       </ul>
     </td>
   </tr>
@@ -147,7 +147,10 @@
         <img src="https://img.shields.io/badge/Lua-430073?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
         <img src="https://img.shields.io/badge/TypeScript-42006B?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/HTML-3D0066?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-380059?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/Dockerfile-4D1478?style=for-the-badge&logo=docker&logoColor=white" alt="Dockerfile" />
+        <img src="https://img.shields.io/badge/SCSS-380059?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+        <img src="https://img.shields.io/badge/CSS-380059?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/Eclipse%20Adoptium-551A8B?style=for-the-badge&logo=eclipse-adoptium&logoColor=white" alt="Eclipse Adoptium" />
         <img src="https://img.shields.io/badge/C%23-430073?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
         <img src="https://img.shields.io/badge/Java-42006B?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
       </td>
@@ -159,6 +162,13 @@
       <td style="border: 1px solid #ddd; padding: 10px;">
         <img src="https://img.shields.io/badge/Kubernetes-551A8B?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
         <img src="https://img.shields.io/badge/Docker-4D1478?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Docker%20Swarm-4D1478?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Swarm" />
+        <img src="https://img.shields.io/badge/VMware-4D1478?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+        <img src="https://img.shields.io/badge/VirtualBox-400066?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+        <img src="https://img.shields.io/badge/Proxmox-4D1478?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+        <img src="https://img.shields.io/badge/QEMU-4D1478?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
+        <img src="https://img.shields.io/badge/LXC-4D1478?style=for-the-badge&logo=lxc&logoColor=white" alt="LXC" />
+        <img src="https://img.shields.io/badge/Hyper--V-4D1478?style=for-the-badge&logo=hyper-v&logoColor=white" alt="Hyper-V" />
       </td>
     </tr>
     <tr>
@@ -176,12 +186,21 @@
         <img src="https://img.shields.io/badge/SNMP-4B1B81?style=for-the-badge&logo=snmp&logoColor=white" alt="SNMP" />
         <img src="https://img.shields.io/badge/ARP-591E96?style=for-the-badge&logo=arp&logoColor=white" alt="ARP" />
         <img src="https://img.shields.io/badge/ICMP-6829B1?style=for-the-badge&logo=icmp&logoColor=white" alt="ICMP" />
-        <img src="https://img.shields.io/badge/SFTP-5E22A1?style=for-the-badge&logo=sftp&logoColor=white" alt="SFTP" />
         <img src="https://img.shields.io/badge/HTTP/HTTPS-6829B1?style=for-the-badge&logo=http&logoColor=white" alt="HTTP/HTTPS" />
         <img src="https://img.shields.io/badge/FTP/FTPS-5E22A1?style=for-the-badge&logo=ftp&logoColor=white" alt="FTP/FTPS" />
         <img src="https://img.shields.io/badge/TCP-531E8F?style=for-the-badge&logo=tcp&logoColor=white" alt="TCP" />
         <img src="https://img.shields.io/badge/UDP-4B1B81?style=for-the-badge&logo=udp&logoColor=white" alt="UDP" />
         <img src="https://img.shields.io/badge/SSH-591E96?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH" />
+        <img src="https://img.shields.io/badge/SMB-6829B1?style=for-the-badge&logo=smb&logoColor=white" alt="SMB" />
+        <img src="https://img.shields.io/badge/NTP-5E22A1?style=for-the-badge&logo=network-time-protocol&logoColor=white" alt="NTP" />
+        <img src="https://img.shields.io/badge/ZFS-7634D3?style=for-the-badge&logo=zfs&logoColor=white" alt="ZFS" />
+        <img src="https://img.shields.io/badge/NFS-7634D3?style=for-the-badge&logo=nfs&logoColor=white" alt="NFS" />
+        <img src="https://img.shields.io/badge/Btrfs-7634D3?style=for-the-badge&logo=btrfs&logoColor=white" alt="Btrfs" />
+        <img src="https://img.shields.io/badge/TMPFS-7634D3?style=for-the-badge&logo=tmpfs&logoColor=white" alt="TMPFS" />
+        <img src="https://img.shields.io/badge/EXT4-7634D3?style=for-the-badge&logo=ext4&logoColor=white" alt="EXT4" /> 
+        <img src="https://img.shields.io/badge/NTFS-8645EA?style=for-the-badge&logo=ntfs&logoColor=white" alt="NTFS" />
+        <img src="https://img.shields.io/badge/FAT-7634D3?style=for-the-badge&logo=fat&logoColor=white" alt="FAT" />
+        <img src="https://img.shields.io/badge/FAT--32-7634D3?style=for-the-badge&logo=fat&logoColor=white" alt="FAT 32" />
       </td>
     </tr>
     <tr>
@@ -202,6 +221,7 @@
       </td>
       <td style="border: 1px solid #ddd; padding: 10px;">
         <img src="https://img.shields.io/badge/JSON-8E4DF2?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+        <img src="https://img.shields.io/badge/JSON%20with%20comments-8E4DF2?style=for-the-badge&logo=json&logoColor=white" alt="JSON with comments" />
         <img src="https://img.shields.io/badge/XML-8645EA?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
         <img src="https://img.shields.io/badge/YAML-7B3DD9?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
         <img src="https://img.shields.io/badge/TOML-7B3DD9?style=for-the-badge&logo=toml&logoColor=white" alt="TOML" />
