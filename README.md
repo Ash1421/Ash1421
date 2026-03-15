@@ -84,7 +84,7 @@
         <li><img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%209700X%20(8C/16T)%20@%205.55%20GHz-6F28D7?style=for-the-badge&logo=amd&logoColor=white" alt="CPU: AMD Ryzen 7 9700X (8C, 16T) @ 5.55 GHz" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Integrated-AMD%20Radeon(TM)%20Graphics%20(512MB)-6320D3?style=for-the-badge&logo=amd&logoColor=white" alt="GPU 1: AMD Radeon(TM) Graphics (512MB)" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Dedicated-NVIDIA%20GeForce%20RTX%205060%20Ti%20@%203.09%20GHz%20(16GB)-5720CD?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU 2: NVIDIA GeForce RTX 5060 Ti @ 3.09 GHz (16GB)" /></li>
-        <li><img src="https://img.shields.io/badge/RAM-GSkill%2032GB%20DDR5%20(6000%20MT/s)-4C1AC0?style=for-the-badge&logo=memory&logoColor=white" alt="RAM: 32GB DDR5 (6000 MT/s)" /></li>
+        <li><img src="https://img.shields.io/badge/RAM-GSkill%2032GB%20DDR5%20(6000%20MT/s)-4C1AC0?style=for-the-badge&logo=gskill&logoColor=white" alt="RAM: 32GB DDR5 (6000 MT/s)" /></li>
         <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Kingston%20SNVS2000G%202TB%20NVMe%20SSD-350F94?style=for-the-badge&logo=kingston&logoColor=white" alt="Storage Drive 1: Kingston SNVS2000G 2TB NVMe SSD" /></li>
         <li><img src="https://img.shields.io/badge/Storage%20Drive%202-Kingston%20SNV3S1000G%201TB%20NVMe%20SSD-4013A7?style=for-the-badge&logo=kingston&logoColor=white" alt="Storage Drive 2: Kingston SNV3S1000G 1TB NVMe SSD" /></li>
         <li><img src="https://img.shields.io/badge/Network%20&%20Internet%20Connection-2.5g%20NIC%20|%20ISP%20(▼~500/~100▲)-4013A7?style=for-the-badge&logo=network-wifi&logoColor=white" alt="Network: 2.5g NIC (▼~500/~100▲)" /></li>
@@ -102,14 +102,14 @@
     <td align="left" style="border: 1px solid #ddd; padding: 10px;">
       <ul style="list-style: none; padding: 0; margin: 0;">
         <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Home-9C51E3?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows 11 Home" /></li>
-        <li><img src="https://img.shields.io/badge/Host-Lenovo%2081WA-8F40E0?style=for-the-badge&logo=windows&logoColor=white" alt="Host: Lenovo 81WA" /></li>
+        <li><img src="https://img.shields.io/badge/Host-Lenovo%2081WA-8F40E0?style=for-the-badge&logo=lenovo&logoColor=white" alt="Host: Lenovo 81WA" /></li>
         <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white" alt="Kernel: WIN32_NT (25H2)" /></li>
         <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.5.5%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white" alt="Shell: PowerShell 7.5.5 X64" /></li>
         <li><img src="https://img.shields.io/badge/CPU-Intel%20Core%20i7--10510U%20@%201.8%20GHz%20(4C/8T)-6F28D7?style=for-the-badge&logo=intel&logoColor=white" alt="CPU: Intel Core i7-10510U @ 1.8 GHz (4C, 8T)" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Integrated-Intel%20UHD%20Graphics%20(4GB)-6320D3?style=for-the-badge&logo=intel&logoColor=white" alt="GPU (Integrated): Intel UHD Graphics (4GB)" /></li>
-        <li><img src="https://img.shields.io/badge/RAM-Samsung%208GB%20DDR4%20(2667%20MT/s)-4C1AC0?style=for-the-badge&logo=memory&logoColor=white" alt="RAM: Samsung 8GB DDR4 (2667 MT/s)" /></li>
-        <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Intel%20SSDPEKNW512GZ%20512%20GB%20NVMe%20SSD-350F94?style=for-the-badge&logo=intel-ssdpeknw&logoColor=white" alt="Storage Drive 1: Intel SSDPEKNW512GZ 512 GB NVMe SSD" /></li>
-        <li><img src="https://img.shields.io/badge/Network%20%26%20Internet%20Connection-Intel%20Wireless--AC%209560%20|%20Wifi%20(▼~120/~100▲)%20-4013A7?style=for-the-badge&logo=wifi&logoColor=white" alt="Network: Intel Wireless-AC 9560 | Wi-Fi (▼~120/~100▲)" /></li>
+        <li><img src="https://img.shields.io/badge/RAM-Samsung%208GB%20DDR4%20(2667%20MT/s)-4C1AC0?style=for-the-badge&logo=samsung&logoColor=white" alt="RAM: Samsung 8GB DDR4 (2667 MT/s)" /></li>
+        <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Intel%20SSDPEKNW512GZ%20512%20GB%20NVMe%20SSD-350F94?style=for-the-badge&logo=intel&logoColor=white" alt="Storage Drive 1: Intel SSDPEKNW512GZ 512 GB NVMe SSD" /></li>
+        <li><img src="https://img.shields.io/badge/Network%20%26%20Internet%20Connection-Intel%20Wireless--AC%209560%20|%20Wifi%20(▼~120/~100▲)%20-4013A7?style=for-the-badge&logo=intel&logoColor=white" alt="Network: Intel Wireless-AC 9560 | Wi-Fi (▼~120/~100▲)" /></li>
         <li><img src="https://img.shields.io/badge/Main%20IDE-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Main IDE: Visual Studio Code" /></li>
       </ul>
     </td>
@@ -138,7 +138,8 @@
       <td style="border: 1px solid #ddd; padding: 10px;">
         <img src="https://img.shields.io/badge/Python-3D0066?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Swift-47007C?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-        <img src="https://img.shields.io/badge/C-380059?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/C-380059?style=for-the-badge&logo=C&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/C++-2E004B?style=for-the-badge&logo=c-plus-plus%2B%2B%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/JavaScript-400066?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Kotlin-420073?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
         <img src="https://img.shields.io/badge/Go-36005A?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -153,6 +154,7 @@
         <img src="https://img.shields.io/badge/Eclipse%20Adoptium-551A8B?style=for-the-badge&logo=eclipse-adoptium&logoColor=white" alt="Eclipse Adoptium" />
         <img src="https://img.shields.io/badge/C%23-430073?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
         <img src="https://img.shields.io/badge/Java-42006B?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/INI-4D1478?style=for-the-badge&logo=ini&logoColor=white" alt="INI" />
       </td>
     </tr>
     <tr>
@@ -286,5 +288,5 @@
   <a href="https://github.com/Ash1421/Midnight-Ash">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=tokyonight" alt="Midnight-Ash Pin"/>
   </a>
-   <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=161b22&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Offline,%20Idle%20or%20Busy" alt="Discord Presence"/>
+   <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=161b22&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Offline,%20or%20Busy" alt="Discord Presence"/>
 </p>
