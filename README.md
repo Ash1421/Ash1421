@@ -9,54 +9,54 @@
       </p>
     </td>
     <td align="right" style="vertical-align: top;">
-        <a href="https://github.com/Ash1421/Ash1421"/>
-      <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+        <!-- <a href="https://github.com/Ash1421/Ash1421"/>
+      <img src="https://komarev.com/ghpvc/?username=Ash1421&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" /> -->
       </a>
-      <img src="https://img.shields.io/github/followers/Ash1421?style=for-the-badge&color=purple&logo=github" alt="GitHub Followers" />
+      <img src="https://img.shields.io/github/followers/Ash1421?style=for-the-badge&color=purple&labelColor=1c1917&logo=github" alt="GitHub Followers" />
       </a>
         <a href="https://github.com/Ash1421?tab=stars">
-      <img src="https://img.shields.io/github/stars/Ash1421?style=for-the-badge&color=purple&logo=github" alt="GitHub Stars" />
+      <img src="https://img.shields.io/github/stars/Ash1421?style=for-the-badge&color=purple&labelColor=1c1917&logo=github" alt="GitHub Stars" />
       </a>
         <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
-      <img src="https://wakatime.com/badge/user/dfdffe14-322b-4a5b-aea8-bfecd3434d3f.svg?style=for-the-badge&color=9B59B6&label=Code%20Time" alt="WakaTime Code Time" />
+      <img src="https://wakatime.com/badge/user/dfdffe14-322b-4a5b-aea8-bfecd3434d3f.svg?style=for-the-badge&color=9B59B6&labelColor=1c1917" alt="WakaTime Code Time" />
       </a>
         <a href="https://discord.com/users/730744444134433994">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F616485235982467085&query=%24.data.discord_status&style=for-the-badge&logo=discord&logoColor=white&label=Discord%20User&suffix=%20|%20@%20Ash1421&color=9B59B6" alt="Discord User @ash1421" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F616485235982467085&query=%24.data.discord_status&style=for-the-badge&logo=discord&logoColor=white&label=Discord%20User&suffix=%20|%20@%20Ash1421&color=9B59B6&labelColor=1c1917" alt="Discord User @ash1421" />
       </a>
-      <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge" alt="Built with love" />
+      <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge&labelColor=1c1917" alt="Built with love" />
       </a>
        <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">
-      <img src="https://img.shields.io/badge/FOSS-Fan-9B59B6?style=for-the-badge&logo=foss&logoColor=white" alt="FOSS" />
+      <img src="https://img.shields.io/badge/FOSS-Fan-9B59B6?style=for-the-badge&logo=foss&logoColor=white&labelColor=1c1917" alt="FOSS" />
       </a>
        <a href="https://opensource.org/about">
-      <img src="https://img.shields.io/badge/Open%20Source-Fan-9B59B6?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source" />
+      <img src="https://img.shields.io/badge/Open%20Source-Fan-9B59B6?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=1c1917" alt="Open Source" />
       </a>
       <a href="https://ash1421.com">
-        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=My%20Website" alt="My Website" />
+        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=My%20Website&labelColor=1c1917" alt="My Website" />
       </a>
       <a href="https://theme.ash1421.com">
-        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ftheme.ash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=Theme%20Website" alt="Theme Website" />
+        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ftheme.ash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=Theme%20Website&labelColor=1c1917" alt="Theme Website" />
       </a>
        <a href="https://www.twitch.tv/ash1421_" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/twitch/status/ash1421_?logo=twitch&style=for-the-badge&label=TWITCH+STATUS&color=9B59B6&logoColor=white" alt="TWITCH STATUS" />
+      <img src="https://img.shields.io/twitch/status/ash1421_?logo=twitch&style=for-the-badge&label=TWITCH+STATUS&color=9B59B6&logoColor=white&labelColor=1c1917" alt="TWITCH STATUS" />
       </a>
        <a href="https://x.com/_Ashttv">
-      <img src="https://img.shields.io/badge/X%20/%20Twitter-7D39D6?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+      <img src="https://img.shields.io/badge/X%20/%20Twitter-7D39D6?style=for-the-badge&logo=x&logoColor=white&labelColor=1c1917" alt="X / Twitter" />
       </a>
        <a href="https://discord.gg/xc4D33wBmA">
-      <img src="https://img.shields.io/discord/1086533721726922793?style=for-the-badge&logo=discord&logoColor=white&label=Discord%20Server%20Invite&color=7D39D6" alt="Discord Server" />
+      <img src="https://img.shields.io/discord/1086533721726922793?style=for-the-badge&logo=discord&logoColor=white&label=Discord%20Server%20Invite&color=7D39D6&labelColor=1c1917" alt="Discord Server" />
       </a>
        <a href="https://bsky.app/profile/ash1421.bsky.social">
-      <img src="https://img.shields.io/badge/Bluesky-6829B1?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+      <img src="https://img.shields.io/badge/Bluesky-6829B1?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=1c1917" alt="Bluesky" />
       </a>
         <a href="https://www.reddit.com/user/Ash1421_/">
-      <img src="https://img.shields.io/badge/Reddit-6829B1?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+      <img src="https://img.shields.io/badge/Reddit-6829B1?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1c1917" alt="Reddit" />
       </a>
         <a href="https://youtube.com/@Ash1421_?sub_confirmation=1">
-      <img src="https://img.shields.io/badge/YouTube-7D39D6?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+      <img src="https://img.shields.io/badge/YouTube-7D39D6?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1c1917" alt="YouTube" />
       </a>
        <a href="https://steamcommunity.com/id/Ash1421/">
-      <img src="https://img.shields.io/badge/Steam-6829B1?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+      <img src="https://img.shields.io/badge/Steam-6829B1?style=for-the-badge&logo=steam&logoColor=white&labelColor=1c1917" alt="Steam" />
       </a>
     </td>
   </tr>
@@ -80,18 +80,18 @@
   <tr>
     <td align="left" style="border: 1px solid #ddd; padding: 10px;">
       <ul style="list-style: none; padding: 0; margin: 0;">
-        <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Pro-9C51E3?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows 11 Pro" /></li>
-        <li><img src="https://img.shields.io/badge/Host-B850M%20EAGLE%20WIFI6E-8F40E0?style=for-the-badge&logo=windows&logoColor=white" alt="Host: B850M EAGLE WIFI6E" /></li>
-        <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white" alt="Kernel: WIN32_NT (25H2)" /></li>
-        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.6.0%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white" alt="Shell: PowerShell 7.6.0 X64" /></li>
-        <li><img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%209700X%20(8C/16T)%20@%205.55%20GHz-6F28D7?style=for-the-badge&logo=amd&logoColor=white" alt="CPU: AMD Ryzen 7 9700X (8C, 16T) @ 5.55 GHz" /></li>
-        <li><img src="https://img.shields.io/badge/GPU%20Integrated-AMD%20Radeon(TM)%20Graphics%20(512MB)-6320D3?style=for-the-badge&logo=amd&logoColor=white" alt="GPU 1: AMD Radeon(TM) Graphics (512MB)" /></li>
-        <li><img src="https://img.shields.io/badge/GPU%20Dedicated-NVIDIA%20GeForce%20RTX%205060%20Ti%20@%203.09%20GHz%20(16GB)-5720CD?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU 2: NVIDIA GeForce RTX 5060 Ti @ 3.09 GHz (16GB)" /></li>
-        <li><img src="https://img.shields.io/badge/RAM-GSkill%2032GB%20DDR5%20(6000%20MT/s)-4C1AC0?style=for-the-badge&logo=gskill&logoColor=white" alt="RAM: 32GB DDR5 (6000 MT/s)" /></li>
-        <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Kingston%20SNVS2000G%202TB%20NVMe%20SSD-350F94?style=for-the-badge&logo=kingston&logoColor=white" alt="Storage Drive 1: Kingston SNVS2000G 2TB NVMe SSD" /></li>
-        <li><img src="https://img.shields.io/badge/Storage%20Drive%202-Kingston%20SNV3S1000G%201TB%20NVMe%20SSD-4013A7?style=for-the-badge&logo=kingston&logoColor=white" alt="Storage Drive 2: Kingston SNV3S1000G 1TB NVMe SSD" /></li>
-        <li><img src="https://img.shields.io/badge/Network%20&%20Internet%20Connection-2.5g%20NIC%20|%20ISP%20(▼~500/~100▲)-4013A7?style=for-the-badge&logo=network-wifi&logoColor=white" alt="Network: 2.5g NIC (▼~500/~100▲)" /></li>
-        <li><img src="https://img.shields.io/badge/Main%20IDE-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Main IDE: Visual Studio Code" /></li>
+        <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Pro-9C51E3?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="OS: Windows 11 Pro" /></li>
+        <li><img src="https://img.shields.io/badge/Host-B850M%20EAGLE%20WIFI6E-8F40E0?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="Host: B850M EAGLE WIFI6E" /></li>
+        <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="Kernel: WIN32_NT (25H2)" /></li>
+        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.6.0%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white&labelColor=1c1917" alt="Shell: PowerShell 7.6.0 X64" /></li>
+        <li><img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%209700X%20(8C/16T)%20@%205.55%20GHz-6F28D7?style=for-the-badge&logo=amd&logoColor=white&labelColor=1c1917" alt="CPU: AMD Ryzen 7 9700X (8C, 16T) @ 5.55 GHz" /></li>
+        <li><img src="https://img.shields.io/badge/GPU%20Integrated-AMD%20Radeon(TM)%20Graphics%20(512MB)-6320D3?style=for-the-badge&logo=amd&logoColor=white&labelColor=1c1917" alt="GPU 1: AMD Radeon(TM) Graphics (512MB)" /></li>
+        <li><img src="https://img.shields.io/badge/GPU%20Dedicated-NVIDIA%20GeForce%20RTX%205060%20Ti%20@%203.09%20GHz%20(16GB)-5720CD?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1c1917" alt="GPU 2: NVIDIA GeForce RTX 5060 Ti @ 3.09 GHz (16GB)" /></li>
+        <li><img src="https://img.shields.io/badge/RAM-GSkill%2032GB%20DDR5%20(6000%20MT/s)-4C1AC0?style=for-the-badge&logo=gskill&logoColor=white&labelColor=1c1917" alt="RAM: 32GB DDR5 (6000 MT/s)" /></li>
+        <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Kingston%20SNVS2000G%202TB%20NVMe%20SSD-350F94?style=for-the-badge&logo=kingston&logoColor=white&labelColor=1c1917" alt="Storage Drive 1: Kingston SNVS2000G 2TB NVMe SSD" /></li>
+        <li><img src="https://img.shields.io/badge/Storage%20Drive%202-Kingston%20SNV3S1000G%201TB%20NVMe%20SSD-4013A7?style=for-the-badge&logo=kingston&logoColor=white&labelColor=1c1917" alt="Storage Drive 2: Kingston SNV3S1000G 1TB NVMe SSD" /></li>
+        <li><img src="https://img.shields.io/badge/Network%20&%20Internet%20Connection-2.5g%20NIC%20|%20ISP%20(▼~500/~100▲)-4013A7?style=for-the-badge&logo=network-wifi&logoColor=white&labelColor=1c1917" alt="Network: 2.5g NIC (▼~500/~100▲)" /></li>
+        <li><img src="https://img.shields.io/badge/Main%20IDE-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1c1917" alt="Main IDE: Visual Studio Code" /></li>
       </ul>
     </td>
   </tr>
@@ -104,16 +104,16 @@
   <tr>
     <td align="left" style="border: 1px solid #ddd; padding: 10px;">
       <ul style="list-style: none; padding: 0; margin: 0;">
-        <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Home-9C51E3?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows 11 Home" /></li>
-        <li><img src="https://img.shields.io/badge/Host-Lenovo%2081WA-8F40E0?style=for-the-badge&logo=lenovo&logoColor=white" alt="Host: Lenovo 81WA" /></li>
-        <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white" alt="Kernel: WIN32_NT (25H2)" /></li>
-        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.6.0%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white" alt="Shell: PowerShell 7.6.0 X64" /></li>
-        <li><img src="https://img.shields.io/badge/CPU-Intel%20Core%20i7--10510U%20@%201.8%20GHz%20(4C/8T)-6F28D7?style=for-the-badge&logo=intel&logoColor=white" alt="CPU: Intel Core i7-10510U @ 1.8 GHz (4C, 8T)" /></li>
-        <li><img src="https://img.shields.io/badge/GPU%20Integrated-Intel%20UHD%20Graphics%20(4GB)-6320D3?style=for-the-badge&logo=intel&logoColor=white" alt="GPU (Integrated): Intel UHD Graphics (4GB)" /></li>
-        <li><img src="https://img.shields.io/badge/RAM-Samsung%208GB%20DDR4%20(2667%20MT/s)-4C1AC0?style=for-the-badge&logo=samsung&logoColor=white" alt="RAM: Samsung 8GB DDR4 (2667 MT/s)" /></li>
-        <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Intel%20SSDPEKNW512GZ%20512%20GB%20NVMe%20SSD-350F94?style=for-the-badge&logo=intel&logoColor=white" alt="Storage Drive 1: Intel SSDPEKNW512GZ 512 GB NVMe SSD" /></li>
-        <li><img src="https://img.shields.io/badge/Network%20%26%20Internet%20Connection-Intel%20Wireless--AC%209560%20|%20Wifi%20(▼~120/~100▲)%20-4013A7?style=for-the-badge&logo=intel&logoColor=white" alt="Network: Intel Wireless-AC 9560 | Wi-Fi (▼~120/~100▲)" /></li>
-        <li><img src="https://img.shields.io/badge/Main%20IDE-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Main IDE: Visual Studio Code" /></li>
+        <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Home-9C51E3?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="OS: Windows 11 Home" /></li>
+        <li><img src="https://img.shields.io/badge/Host-Lenovo%2081WA-8F40E0?style=for-the-badge&logo=lenovo&logoColor=white&labelColor=1c1917" alt="Host: Lenovo 81WA" /></li>
+        <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="Kernel: WIN32NT (25H2)" /></li>
+        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.6.0%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white&labelColor=1c1917" alt="Shell: PowerShell 7.6.0 X64" /></li>
+        <li><img src="https://img.shields.io/badge/CPU-Intel%20Core%20i7--10510U%20@%201.8%20GHz%20(4C/8T)-6F28D7?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="CPU: Intel Core i7-10510U @ 1.8 GHz (4C, 8T)" /></li>
+        <li><img src="https://img.shields.io/badge/GPU%20Integrated-Intel%20UHD%20Graphics%20(4GB)-6320D3?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="GPU (Integrated): Intel UHD Graphics (4GB)" /></li>
+        <li><img src="https://img.shields.io/badge/RAM-Samsung%208GB%20DDR4%20(2667%20MT/s)-4C1AC0?style=for-the-badge&logo=samsung&logoColor=white&labelColor=1c1917" alt="RAM: Samsung 8GB DDR4 (2667 MT/s)" /></li>
+        <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Intel%20SSDPEKNW512GZ%20512%20GB%20NVMe%20SSD-350F94?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="Storage Drive 1: Intel SSDPEKNW512GZ 512 GB NVMe SSD" /></li>
+        <li><img src="https://img.shields.io/badge/Network%20%26%20Internet%20Connection-Intel%20Wireless--AC%209560%20|%20Wifi%20(▼~120/~100▲)%20-4013A7?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="Network: Intel Wireless-AC 9560 | Wi-Fi (▼~120/~100▲)" /></li>
+        <li><img src="https://img.shields.io/badge/Main%20IDE-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1c1917" alt="Main IDE: Visual Studio Code" /></li>
       </ul>
     </td>
   </tr>
@@ -139,22 +139,22 @@
         <p><strong style="color:#3D0066; font-size:1.1em;">Programming Languages</strong></p>
       </td>
       <td style="border: 1px solid #ddd; padding: 10px;">
-        <img src="https://img.shields.io/badge/Python-3D0066?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Swift-47007C?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-        <img src="https://img.shields.io/badge/C-380059?style=for-the-badge&logo=C&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/C++-2E004B?style=for-the-badge&logo=c-plus-plus%2B%2B%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/JavaScript-400066?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Kotlin-420073?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Go-36005A?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/Rust-2E004B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-        <img src="https://img.shields.io/badge/PHP-400066?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/Lua-430073?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-        <img src="https://img.shields.io/badge/TypeScript-42006B?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/HTML-3D0066?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/Dockerfile-4D1478?style=for-the-badge&logo=docker&logoColor=white" alt="Dockerfile" />
-        <img src="https://img.shields.io/badge/SCSS-380059?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
-        <img src="https://img.shields.io/badge/CSS-380059?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-        <img src="https://img.shields.io/badge/Eclipse%20Adoptium-551A8B?style=for-the-badge&logo=eclipse-adoptium&logoColor=white" alt="Eclipse Adoptium" />
+        <img src="https://img.shields.io/badge/Python-3D0066?style=for-the-badge&logo=python&logoColor=white&labelColor=1c1917" alt="Python" />
+        <img src="https://img.shields.io/badge/Swift-47007C?style=for-the-badge&logo=swift&logoColor=white&labelColor=1c1917" alt="Swift" />
+        <img src="https://img.shields.io/badge/C-380059?style=for-the-badge&logo=C&logoColor=white&labelColor=1c1917" alt="C" />
+        <img src="https://img.shields.io/badge/C++-2E004B?style=for-the-badge&logo=c-plus-plus%2B%2B%2B%2B&logoColor=white&labelColor=1c1917" alt="C++" />
+        <img src="https://img.shields.io/badge/JavaScript-400066?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1c1917" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Kotlin-420073?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1c1917" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Go-36005A?style=for-the-badge&logo=go&logoColor=white&labelColor=1c1917" alt="Go" />
+        <img src="https://img.shields.io/badge/Rust-2E004B?style=for-the-badge&logo=rust&logoColor=white&labelColor=1c1917" alt="Rust" />
+        <img src="https://img.shields.io/badge/PHP-400066?style=for-the-badge&logo=php&logoColor=white&labelColor=1c1917" alt="PHP" />
+        <img src="https://img.shields.io/badge/Lua-430073?style=for-the-badge&logo=lua&logoColor=white&labelColor=1c1917" alt="Lua" />
+        <img src="https://img.shields.io/badge/TypeScript-42006B?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1c1917" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/HTML-3D0066?style=for-the-badge&logo=html5&logoColor=white&labelColor=1c1917" alt="HTML" />
+        <img src="https://img.shields.io/badge/Dockerfile-4D1478?style=for-the-badge&logo=docker&logoColor=white&labelColor=1c1917" alt="Dockerfile" />
+        <img src="https://img.shields.io/badge/SCSS-380059?style=for-the-badge&logo=sass&logoColor=white&labelColor=1c1917" alt="SCSS" />
+        <img src="https://img.shields.io/badge/CSS-380059?style=for-the-badge&logo=css&logoColor=white&labelColor=1c1917" alt="CSS" />
+        <img src="https://img.shields.io/badge/Eclipse%20Adoptium-551A8B?style=for-the-badge&logo=eclipse-adoptium&logoColor=white&labelColor=1c1917" alt="Eclipse Adoptium" />
         <img src="https://img.shields.io/badge/C%23-430073?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
         <img src="https://img.shields.io/badge/Java-42006B?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/INI-4D1478?style=for-the-badge&logo=ini&logoColor=white" alt="INI" />
@@ -165,13 +165,13 @@
         <p><strong style="color:#551A8B; font-size:1.1em;">DevOps & Containers</strong></p>
       </td>
       <td style="border: 1px solid #ddd; padding: 10px;">
-        <img src="https://img.shields.io/badge/Kubernetes-551A8B?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-        <img src="https://img.shields.io/badge/Docker-4D1478?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Docker%20Swarm-4D1478?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Swarm" />
-        <img src="https://img.shields.io/badge/VMware-4D1478?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
-        <img src="https://img.shields.io/badge/VirtualBox-400066?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
-        <img src="https://img.shields.io/badge/Proxmox-4D1478?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-        <img src="https://img.shields.io/badge/QEMU-4D1478?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
+        <img src="https://img.shields.io/badge/Kubernetes-551A8B?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1c1917" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Docker-4D1478?style=for-the-badge&logo=docker&logoColor=white&labelColor=1c1917" alt="Docker" />
+        <img src="https://img.shields.io/badge/Docker%20Swarm-4D1478?style=for-the-badge&logo=docker&logoColor=white&labelColor=1c1917" alt="Docker Swarm" />
+        <img src="https://img.shields.io/badge/VMware-4D1478?style=for-the-badge&logo=vmware&logoColor=white&labelColor=1c1917" alt="VMware" />
+        <img src="https://img.shields.io/badge/VirtualBox-400066?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=1c1917" alt="VirtualBox" />
+        <img src="https://img.shields.io/badge/Proxmox-4D1478?style=for-the-badge&logo=proxmox&logoColor=white&labelColor=1c1917" alt="Proxmox" />
+        <img src="https://img.shields.io/badge/QEMU-4D1478?style=for-the-badge&logo=qemu&logoColor=white&labelColor=1c1917" alt="QEMU" />
         <img src="https://img.shields.io/badge/LXC-4D1478?style=for-the-badge&logo=lxc&logoColor=white" alt="LXC" />
         <img src="https://img.shields.io/badge/Hyper--V-4D1478?style=for-the-badge&logo=hyper-v&logoColor=white" alt="Hyper-V" />
       </td>
@@ -213,8 +213,8 @@
         <p><strong style="color:#7D39D6; font-size:1.1em;">Scripting & Shells</strong></p>
       </td>
       <td style="border: 1px solid #ddd; padding: 10px;">
-        <img src="https://img.shields.io/badge/Bash-7D39D6?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-        <img src="https://img.shields.io/badge/Zsh-7634D3?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
+        <img src="https://img.shields.io/badge/Bash-7D39D6?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=1c1917" alt="Bash" />
+        <img src="https://img.shields.io/badge/Zsh-7634D3?style=for-the-badge&logo=zsh&logoColor=white&labelColor=1c1917" alt="Zsh" />
         <img src="https://img.shields.io/badge/PowerShell-6F29CC?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
         <img src="https://img.shields.io/badge/Batch-5D1BC0?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Batch" />
         <img src="https://img.shields.io/badge/VBS-6020B8?style=for-the-badge&logo=visual-basic&logoColor=white" alt="VBS" />
@@ -225,12 +225,12 @@
         <p><strong style="color:#8E4DF2; font-size:1.1em;">Markup & Data Formats</strong></p>
       </td>
       <td style="border: 1px solid #ddd; padding: 10px;">
-        <img src="https://img.shields.io/badge/JSON-8E4DF2?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-        <img src="https://img.shields.io/badge/JSON%20with%20comments-8E4DF2?style=for-the-badge&logo=json&logoColor=white" alt="JSON with comments" />
-        <img src="https://img.shields.io/badge/XML-8645EA?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
-        <img src="https://img.shields.io/badge/YAML-7B3DD9?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
-        <img src="https://img.shields.io/badge/TOML-7B3DD9?style=for-the-badge&logo=toml&logoColor=white" alt="TOML" />
-        <img src="https://img.shields.io/badge/SQL-7839D5?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/JSON-8E4DF2?style=for-the-badge&logo=json&logoColor=white&labelColor=1c1917" alt="JSON" />
+        <img src="https://img.shields.io/badge/JSON%20with%20comments-8E4DF2?style=for-the-badge&logo=json&logoColor=white&labelColor=1c1917" alt="JSON with comments" />
+        <img src="https://img.shields.io/badge/XML-8645EA?style=for-the-badge&logo=xml&logoColor=white&labelColor=1c1917" alt="XML" />
+        <img src="https://img.shields.io/badge/YAML-7B3DD9?style=for-the-badge&logo=yaml&logoColor=white&labelColor=1c1917" alt="YAML" />
+        <img src="https://img.shields.io/badge/TOML-7B3DD9?style=for-the-badge&logo=toml&logoColor=white&labelColor=1c1917" alt="TOML" />
+        <img src="https://img.shields.io/badge/SQL-7839D5?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1c1917" alt="SQL" />
       </td>
     </tr>
     <tr>
@@ -238,29 +238,29 @@
         <p><strong style="color:#8B3D6E; font-size:1.1em;">Hardware & Companies</strong></p>
       </td>
       <td style="border: 1px solid #ddd; padding: 10px;">
-        <img src="https://img.shields.io/badge/NVIDIA-8B3D6E?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
-        <img src="https://img.shields.io/badge/Ryzen-8B3D6E?style=for-the-badge&logo=amd&logoColor=white" alt="Ryzen" />
-        <img src="https://img.shields.io/badge/Intel-8B3D6E?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" />
-        <img src="https://img.shields.io/badge/Cisco-8B3D6E?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-        <img src="https://img.shields.io/badge/Fortinet-8B3D6E?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
-        <img src="https://img.shields.io/badge/Ubiqiti-8B3D6E?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiqiti" />
-        <img src="https://img.shields.io/badge/Raspberry%20Pi-8B3D6E?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-        <img src="https://img.shields.io/badge/ASUS-8B3D6E?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS" />
-        <img src="https://img.shields.io/badge/Samsung-8B3D6E?style=for-the-badge&logo=samsung&logoColor=white" alt="Samsung" />
-        <img src="https://img.shields.io/badge/Lenovo-8B3D6E?style=for-the-badge&logo=lenovo&logoColor=white" alt="Lenovo" />
-        <img src="https://img.shields.io/badge/Logitech-8B3D6E?style=for-the-badge&logo=logitech&logoColor=white" alt="Logitech" />
-        <img src="https://img.shields.io/badge/HP-8B3D6E?style=for-the-badge&logo=hp&logoColor=white" alt="HP" />
-        <img src="https://img.shields.io/badge/SteelSeries-8B3D6E?style=for-the-badge&logo=steelseries&logoColor=white" alt="SteelSeries" />
-        <img src="https://img.shields.io/badge/PlayStation-8B3D6E?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
-        <img src="https://img.shields.io/badge/Google-8B3D6E?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
-        <img src="https://img.shields.io/badge/Sony-8B3D6E?style=for-the-badge&logo=sony&logoColor=white" alt="Sony" />
-        <img src="https://img.shields.io/badge/LG-8B3D6E?style=for-the-badge&logo=lg&logoColor=white" alt="LG" />
-        <img src="https://img.shields.io/badge/Elgato-8B3D6E?style=for-the-badge&logo=elgato&logoColor=white" alt="Elgato" />
-        <img src="https://img.shields.io/badge/NZXT-8B3D6E?style=for-the-badge&logo=nzxt&logoColor=white" alt="NZXT" />
-        <img src="https://img.shields.io/badge/Epic%20Games-8B3D6E?style=for-the-badge&logo=epic-games&logoColor=white" alt="Epic Games" />
-        <img src="https://img.shields.io/badge/Steam-8B3D6E?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-        <img src="https://img.shields.io/badge/Rockstar%20Games-8B3D6E?style=for-the-badge&logo=rockstar-games&logoColor=white" alt="Rockstar Games" />
-        <img src="https://img.shields.io/badge/Electronic%20Arts-8B3D6E?style=for-the-badge&logo=electronic-arts&logoColor=white" alt="Electronic Arts" />
+        <img src="https://img.shields.io/badge/NVIDIA-8B3D6E?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1c1917" alt="NVIDIA" />
+        <img src="https://img.shields.io/badge/Ryzen-8B3D6E?style=for-the-badge&logo=amd&logoColor=white&labelColor=1c1917" alt="Ryzen" />
+        <img src="https://img.shields.io/badge/Intel-8B3D6E?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="Intel" />
+        <img src="https://img.shields.io/badge/Cisco-8B3D6E?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1c1917" alt="Cisco" />
+        <img src="https://img.shields.io/badge/Fortinet-8B3D6E?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=1c1917" alt="Fortinet" />
+        <img src="https://img.shields.io/badge/Ubiqiti-8B3D6E?style=for-the-badge&logo=ubiquiti&logoColor=white&labelColor=1c1917" alt="Ubiqiti" />
+        <img src="https://img.shields.io/badge/Raspberry%20Pi-8B3D6E?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=1c1917" alt="Raspberry Pi" />
+        <img src="https://img.shields.io/badge/ASUS-8B3D6E?style=for-the-badge&logo=asus&logoColor=white&labelColor=1c1917" alt="ASUS" />
+        <img src="https://img.shields.io/badge/Samsung-8B3D6E?style=for-the-badge&logo=samsung&logoColor=white&labelColor=1c1917" alt="Samsung" />
+        <img src="https://img.shields.io/badge/Lenovo-8B3D6E?style=for-the-badge&logo=lenovo&logoColor=white&labelColor=1c1917" alt="Lenovo" />
+        <img src="https://img.shields.io/badge/Logitech-8B3D6E?style=for-the-badge&logo=logitech&logoColor=white&labelColor=1c1917" alt="Logitech" />
+        <img src="https://img.shields.io/badge/HP-8B3D6E?style=for-the-badge&logo=hp&logoColor=white&labelColor=1c1917" alt="HP" />
+        <img src="https://img.shields.io/badge/SteelSeries-8B3D6E?style=for-the-badge&logo=steelseries&logoColor=white&labelColor=1c1917" alt="SteelSeries" />
+        <img src="https://img.shields.io/badge/PlayStation-8B3D6E?style=for-the-badge&logo=playstation&logoColor=white&labelColor=1c1917" alt="PlayStation" />
+        <img src="https://img.shields.io/badge/Google-8B3D6E?style=for-the-badge&logo=google&logoColor=white&labelColor=1c1917" alt="Google" />
+        <img src="https://img.shields.io/badge/Sony-8B3D6E?style=for-the-badge&logo=sony&logoColor=white&labelColor=1c1917" alt="Sony" />
+        <img src="https://img.shields.io/badge/LG-8B3D6E?style=for-the-badge&logo=lg&logoColor=white&labelColor=1c1917" alt="LG" />
+        <img src="https://img.shields.io/badge/Elgato-8B3D6E?style=for-the-badge&logo=elgato&logoColor=white&labelColor=1c1917" alt="Elgato" />
+        <img src="https://img.shields.io/badge/NZXT-8B3D6E?style=for-the-badge&logo=nzxt&logoColor=white&labelColor=1c1917" alt="NZXT" />
+        <img src="https://img.shields.io/badge/Epic%20Games-8B3D6E?style=for-the-badge&logo=epic-games&logoColor=white&labelColor=1c1917" alt="Epic Games" />
+        <img src="https://img.shields.io/badge/Steam-8B3D6E?style=for-the-badge&logo=steam&logoColor=white&labelColor=1c1917" alt="Steam" />
+        <img src="https://img.shields.io/badge/Rockstar%20Games-8B3D6E?style=for-the-badge&logo=rockstar-games&logoColor=white&labelColor=1c1917" alt="Rockstar Games" />
+        <img src="https://img.shields.io/badge/Electronic%20Arts-8B3D6E?style=for-the-badge&logo=ea&logoColor=white&labelColor=1c1917" alt="Electronic Arts" />
         <img src="https://img.shields.io/badge/Nintendo-8B3D6E?style=for-the-badge&logo=nintendo&logoColor=white" alt="Nintendo" />
         <img src="https://img.shields.io/badge/Xbox-8B3D6E?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" />
         <img src="https://img.shields.io/badge/EVGA-8B3D6E?style=for-the-badge&logo=evga&logoColor=white" alt="EVGA" />
@@ -273,23 +273,23 @@
 ## 📊 GitHub Stats & Discord Status
 
 <p align="center">
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api?username=Ash1421&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api?username=Ash1421&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
     </a>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true&custom_title=Top%20Languages" alt="Top Languages"/>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&show_icons=true&hide_border=true&layout=compact&count_private=true&custom_title=Top%20Languages" alt="Top Languages"/>
     </a>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&repos=Ash1421/QuickA-Cleanup,Ash1421/Midnight-Ash&theme=tokyonight&stats_format=bytes&show_icons=true&hide_border=true&layout=compact&count_private=true&custom_title=Top%20Languages%20in%20Bytes" alt="Top Languages in Bytes"/>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&stats_format=bytes&show_icons=true&hide_border=true&layout=compact&count_private=true&custom_title=Top%20Languages%20in%20Bytes" alt="Top Languages in Bytes"/>
     </a>
-  <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
-    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=tokyonight&layout=compact&card_width=650" alt="Compact Waka Time"/>
+  <!-- <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
+    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=dark&layout=compact&card_width=650" alt="Compact Waka Time"/>
+  </a> -->
+    <a href="https://github.com/Ash1421/Midnight-Ash">
+    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=dark" alt="Midnight-Ash Pin"/>
   </a>
   <a href="https://github.com/Ash1421/QuickA-Cleanup">
-    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=QuickA-Cleanup&theme=tokyonight" alt="QuickA-Cleanup Pin"/>
+    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=QuickA-Cleanup&theme=dark" alt="QuickA-Cleanup Pin"/>
   </a>
-  <a href="https://github.com/Ash1421/Midnight-Ash">
-    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=tokyonight" alt="Midnight-Ash Pin"/>
-  </a>
-   <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=161b22&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Offline,%20or%20Busy" alt="Discord Presence"/>
+   <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=1c1917&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Offline,%20or%20Busy" alt="Discord Presence"/>
 </p>
