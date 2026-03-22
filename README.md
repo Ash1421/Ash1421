@@ -26,13 +26,13 @@
       <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge" alt="Built with love" />
       </a>
        <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">
-      <img src="https://img.shields.io/badge/FOSS%20Fan-9B59B6?style=for-the-badge&logo=foss&logoColor=white" alt="FOSS" />
+      <img src="https://img.shields.io/badge/FOSS-Fan-9B59B6?style=for-the-badge&logo=foss&logoColor=white" alt="FOSS" />
       </a>
        <a href="https://opensource.org/about">
-      <img src="https://img.shields.io/badge/Open%20Source%20Fan-9B59B6?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source" />
+      <img src="https://img.shields.io/badge/Open%20Source-Fan-9B59B6?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source" />
       </a>
-       <a href="https://ash1421.com">
-      <img src="https://img.shields.io/badge/My%20Website-9B59B6?style=for-the-badge&logo=firefox&logoColor=white" alt="My Website" />
+      <a href="https://ash1421.com">
+        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=My%20Website" alt="My Website" />
       </a>
        <a href="https://www.twitch.tv/ash1421_">
       <img src="https://img.shields.io/badge/Twitch-9B59B6?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
@@ -80,7 +80,7 @@
         <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Pro-9C51E3?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows 11 Pro" /></li>
         <li><img src="https://img.shields.io/badge/Host-B850M%20EAGLE%20WIFI6E-8F40E0?style=for-the-badge&logo=windows&logoColor=white" alt="Host: B850M EAGLE WIFI6E" /></li>
         <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white" alt="Kernel: WIN32_NT (25H2)" /></li>
-        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.5.5%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white" alt="Shell: PowerShell 7.5.5 X64" /></li>
+        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.6.0%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white" alt="Shell: PowerShell 7.6.0 X64" /></li>
         <li><img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%209700X%20(8C/16T)%20@%205.55%20GHz-6F28D7?style=for-the-badge&logo=amd&logoColor=white" alt="CPU: AMD Ryzen 7 9700X (8C, 16T) @ 5.55 GHz" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Integrated-AMD%20Radeon(TM)%20Graphics%20(512MB)-6320D3?style=for-the-badge&logo=amd&logoColor=white" alt="GPU 1: AMD Radeon(TM) Graphics (512MB)" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Dedicated-NVIDIA%20GeForce%20RTX%205060%20Ti%20@%203.09%20GHz%20(16GB)-5720CD?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU 2: NVIDIA GeForce RTX 5060 Ti @ 3.09 GHz (16GB)" /></li>
@@ -104,7 +104,7 @@
         <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Home-9C51E3?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows 11 Home" /></li>
         <li><img src="https://img.shields.io/badge/Host-Lenovo%2081WA-8F40E0?style=for-the-badge&logo=lenovo&logoColor=white" alt="Host: Lenovo 81WA" /></li>
         <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white" alt="Kernel: WIN32_NT (25H2)" /></li>
-        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.5.5%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white" alt="Shell: PowerShell 7.5.5 X64" /></li>
+        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.6.0%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white" alt="Shell: PowerShell 7.6.0 X64" /></li>
         <li><img src="https://img.shields.io/badge/CPU-Intel%20Core%20i7--10510U%20@%201.8%20GHz%20(4C/8T)-6F28D7?style=for-the-badge&logo=intel&logoColor=white" alt="CPU: Intel Core i7-10510U @ 1.8 GHz (4C, 8T)" /></li>
         <li><img src="https://img.shields.io/badge/GPU%20Integrated-Intel%20UHD%20Graphics%20(4GB)-6320D3?style=for-the-badge&logo=intel&logoColor=white" alt="GPU (Integrated): Intel UHD Graphics (4GB)" /></li>
         <li><img src="https://img.shields.io/badge/RAM-Samsung%208GB%20DDR4%20(2667%20MT/s)-4C1AC0?style=for-the-badge&logo=samsung&logoColor=white" alt="RAM: Samsung 8GB DDR4 (2667 MT/s)" /></li>
