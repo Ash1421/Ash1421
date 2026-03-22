@@ -34,8 +34,11 @@
       <a href="https://ash1421.com">
         <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=My%20Website" alt="My Website" />
       </a>
-       <a href="https://www.twitch.tv/ash1421_">
-      <img src="https://img.shields.io/badge/Twitch-9B59B6?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+      <a href="https://theme.ash1421.com">
+        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ftheme.ash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=Theme%20Website" alt="Theme Website" />
+      </a>
+       <a href="https://www.twitch.tv/ash1421_" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/twitch/status/ash1421_?logo=twitch&style=for-the-badge&label=TWITCH+STATUS&color=9B59B6&logoColor=white" alt="TWITCH STATUS" />
       </a>
        <a href="https://x.com/_Ashttv">
       <img src="https://img.shields.io/badge/X%20/%20Twitter-7D39D6?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
