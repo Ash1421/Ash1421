@@ -325,13 +325,13 @@
 
 <p align="center">
     </a>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&show_icons=true&hide_border=true&layout=compact&count_private=true&custom_title=Top%20Languages" alt="Top Languages"/>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&show_icons=true&hide_border=true&langs_count=10&layout=compact&count_private=true&custom_title=Top%20Languages" alt="Top Languages"/>
     </a>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&stats_format=bytes&show_icons=true&hide_border=true&layout=compact&count_private=true&custom_title=Top%20Languages%20in%20Bytes" alt="Top Languages in Bytes"/>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&stats_format=bytes&show_icons=true&hide_border=true&langs_count=10&layout=compact&count_private=true&custom_title=Top%20Languages%20in%20Bytes" alt="Top Languages in Bytes"/>
     </a>
-  <!-- <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
+  <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=dark&layout=compact&card_width=650" alt="Compact Waka Time"/>
-  </a> -->
+  </a>
     <a href="https://github.com/Ash1421/Midnight-Ash">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=dark" alt="Midnight-Ash Pin"/>
   </a>
