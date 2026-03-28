@@ -65,7 +65,7 @@
 <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <td align="center" style="border: 1px solid #ddd; padding: 15px; vertical-align: top;">
-      <h3>💜 Donations and support are appreciated very much!</h3>
+      <h3>💜 Donations and support / funding are appreciated very much!</h3>
       <p><strong>Minimum donation:</strong> $5 (NZD)</p>
       <p><strong>Payment methods:</strong> Credit/Debit Card, PayPal, Apple Pay, Google Pay</p>
       <p><strong>Supported Cards:</strong> Visa, Mastercard, Amex / American Express</p>
