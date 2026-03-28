@@ -175,10 +175,10 @@
     <tr>
       <td colspan="2" style="padding: 10px;">
         <h3 style="padding: 10px;">
-          I don't own or know all of the languages and frameworks, hardware, software, products, or anything metioned below but I have learned some of them partially and used most of them and own some of their products.
+          I don’t claim expertise in all of the technologies listed below. Some I use regularly, some I’ve experimented with, and others are tools, platforms, or hardware I’m interested in or have worked with.
           <br>
           <br>
-          For the companys and products such as the hardware they make I either own it, have used it, or favorite the company or product. Brands like Steam could include the games that are on it, or some of the hardware they make as a product such as the Steamdeck.
+          For the companys and products such as the hardware they make I either own it, have used it, or favorite the company or product. Brands like Nintendo could include the games that are on it, or some of the hardware they make as a product such as the Nintendo Switch.
         </h3>
       </td>
     </tr>
