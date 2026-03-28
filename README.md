@@ -97,10 +97,10 @@
     <a href="https://www.paypal.com/nz/">
       <img src="https://img.shields.io/badge/PayPal-Supported-7930DA?style=for-the-badge&logo=paypal&logoColor=white&labelColor=1c1917" alt="PayPal">
     </a>
-    <a href="https://www.apple.com/nz/pay/">
+    <a href="https://www.apple.com/nz/apple-pay/">
       <img src="https://img.shields.io/badge/Apple_Pay-Supported-6F28D7?style=for-the-badge&logo=apple&logoColor=white&labelColor=1c1917" alt="Apple Pay">
     </a>
-    <a href="https://pay.google.com/intl/nz/">
+    <a href="https://pay.google.com/intl/en_nz/about/">
       <img src="https://img.shields.io/badge/Google_Pay-Supported-6320D3?style=for-the-badge&logo=google-pay&logoColor=white&labelColor=1c1917" alt="Google Pay">
     </a>
   </div>
