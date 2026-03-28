@@ -72,7 +72,7 @@
       <p>Membership options are <strong>available</strong> for recurring support.</p>
       <p><strong>You can donate via:</strong></p>
       <a href="https://kofi.ash1421.com">
-        <img src="https://img.shields.io/badge/Ko--fi-FF69B4?style=for-the-badge&logo=kofi&logoColor=white&labelColor=1c1917" alt="Ko-fi">
+        <img src="https://img.shields.io/badge/Ko--fi-Donate-FF69B4?style=for-the-badge&logo=kofi&logoColor=white&labelColor=1c1917" alt="Ko-fi">
       </a>
     </td>
 
