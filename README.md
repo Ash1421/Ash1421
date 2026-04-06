@@ -120,7 +120,7 @@
   </tr>
 </table>
 
-<table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
+<!-- <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <th style="border: 1px solid #ddd; padding: 10px;">My Personal Setup </th>
   </tr>
@@ -142,7 +142,7 @@
       </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
