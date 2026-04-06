@@ -144,7 +144,7 @@
   </tr>
 </table> -->
 
-<table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
+<!-- <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <th style="border: 1px solid #ddd; padding: 10px;">Laptop / Portable Setup</th>
   </tr>
@@ -164,7 +164,7 @@
       </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
