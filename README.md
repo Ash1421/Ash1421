@@ -1,3 +1,179 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ash1421</title>
+  <meta property="og:title" content="Ash1421's Github Profile" />
+  <meta property="og:description" content="Tech enthusiast passionate about gaming, open-source, DevOps, FOSS, and cloud computing." />
+  <meta name="theme-color" content="#7c50a8" />
+  <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg-deep:       #0f0c29;
+      --bg-mid:        #1a1338;
+      --bg-card:       rgba(139, 92, 246, 0.08);
+      --border:        rgba(167, 139, 250, 0.18);
+      --border-hover:  rgba(167, 139, 250, 0.45);
+      --purple-bright: #a78bfa;
+      --purple-mid:    #8b5cf6;
+      --purple-soft:   #c084fc;
+      --text-primary:  #e0e0ff;
+      --text-muted:    #b4b4d4;
+      --text-faint:    #7b7b9e;
+      --shadow-glow:   0 8px 32px rgba(139, 92, 246, 0.25);
+      --font-display:  'Syne', sans-serif;
+      --font-mono:     'JetBrains Mono', monospace;
+    }
+
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+
+    body {
+      background:
+        radial-gradient(ellipse 80% 50% at 20% 10%, rgba(139,92,246,0.12) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 40% at 80% 80%, rgba(192,132,252,0.08) 0%, transparent 55%),
+        linear-gradient(160deg, #0f0c29 0%, #1a1338 45%, #24183c 100%);
+      background-attachment: fixed;
+      min-height: 100vh;
+      font-family: var(--font-display);
+      color: var(--text-primary);
+      line-height: 1.7;
+      padding: 40px 20px 80px;
+    }
+
+    .page-wrapper { display: flex; justify-content: center; }
+    .content-container { width: 100%; max-width: 960px; }
+
+    h1 {
+      font-size: clamp(1.8rem, 4vw, 2.6rem);
+      font-weight: 800;
+      background: linear-gradient(135deg, #a78bfa 0%, #c084fc 60%, #e879f9 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 0.3em;
+    }
+
+    h2 {
+      font-size: clamp(1.3rem, 3vw, 1.8rem);
+      color: var(--purple-bright);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    h3 {
+      font-size: 1rem;
+      font-weight: 400;
+      color: var(--text-faint);
+      line-height: 1.6;
+      margin: 0;
+      padding: 4px 0;
+    }
+
+    p { color: var(--text-muted); margin-bottom: 0.6em; font-size: 0.97rem; }
+    strong { color: var(--text-primary); font-weight: 600; }
+    a { color: var(--purple-bright); text-decoration: none; transition: color 0.2s ease; }
+    a:hover { color: var(--purple-soft); }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--bg-card);
+      border-radius: 16px;
+      overflow: hidden;
+      border: 1px solid var(--border) !important;
+      margin: 1.2rem 0;
+      font-size: 0.9rem;
+    }
+
+    table:first-of-type {
+      background: transparent;
+      border: none !important;
+      box-shadow: none;
+      margin-bottom: 0;
+    }
+    table:first-of-type td { border: none !important; background: transparent; padding: 12px 0; }
+
+    thead tr, tr:has(th) { background: rgba(139, 92, 246, 0.15); }
+
+    th {
+      padding: 13px 18px;
+      text-align: left;
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 0.8rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--purple-bright);
+      border-bottom: 1px solid var(--border) !important;
+      border-right: 1px solid var(--border) !important;
+    }
+
+    td {
+      padding: 13px 18px;
+      vertical-align: top;
+      border: 1px solid var(--border) !important;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    td p { margin-bottom: 0.3em; }
+    tr:hover > td { background: rgba(167, 139, 250, 0.03); }
+
+    td > p > strong[style*="color"] {
+      display: inline-block;
+      padding: 4px 12px;
+      border-radius: 20px;
+      background: rgba(139, 92, 246, 0.15);
+      border: 1px solid var(--border);
+      font-size: 0.78rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--purple-bright) !important;
+      -webkit-text-fill-color: var(--purple-bright);
+    }
+
+    img[src*="github-readme-stats"],
+    img[src*="readme-stats"],
+    img[src*="lanyard"],
+    img[src*="readme-typing-svg"],
+    img[src*="wakatime.com/badge"] {
+      border-radius: 10px;
+      max-width: 100%;
+      margin: 4px;
+      box-shadow: var(--shadow-glow);
+      vertical-align: middle;
+    }
+
+    [align="center"], div[align="center"], p[align="center"] { text-align: center; }
+
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg-deep); }
+    ::-webkit-scrollbar-thumb { background: var(--purple-mid); border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--purple-bright); }
+
+    @media (max-width: 680px) {
+      body { padding: 20px 12px 60px; }
+      h1 { font-size: 1.6rem; }
+      h2 { font-size: 1.2rem; }
+      th, td { padding: 10px 12px; }
+      div[align="center"] { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    }
+  </style>
+</head>
+<body>
+<div class="page-wrapper">
+<div class="content-container">
+
 <table width="100%">
   <tr>
     <td>
@@ -120,52 +296,6 @@
   </tr>
 </table>
 
-<!-- <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
-  <tr>
-    <th style="border: 1px solid #ddd; padding: 10px;">My Personal Setup </th>
-  </tr>
-  <tr>
-    <td align="left" style="border: 1px solid #ddd; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Pro-9C51E3?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="OS: Windows 11 Pro" /></li>
-        <li><img src="https://img.shields.io/badge/Host-B850M%20EAGLE%20WIFI6E-8F40E0?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="Host: B850M EAGLE WIFI6E" /></li>
-        <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="Kernel: WIN32_NT (25H2)" /></li>
-        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.6.0%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white&labelColor=1c1917" alt="Shell: PowerShell 7.6.0 X64" /></li>
-        <li><img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%209700X%20(8C/16T)%20@%205.55%20GHz-6F28D7?style=for-the-badge&logo=amd&logoColor=white&labelColor=1c1917" alt="CPU: AMD Ryzen 7 9700X (8C, 16T) @ 5.55 GHz" /></li>
-        <li><img src="https://img.shields.io/badge/GPU%20Integrated-AMD%20Radeon(TM)%20Graphics%20(512MB)-6320D3?style=for-the-badge&logo=amd&logoColor=white&labelColor=1c1917" alt="GPU 1: AMD Radeon(TM) Graphics (512MB)" /></li>
-        <li><img src="https://img.shields.io/badge/GPU%20Dedicated-NVIDIA%20GeForce%20RTX%205060%20Ti%20@%203.09%20GHz%20(16GB)-5720CD?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1c1917" alt="GPU 2: NVIDIA GeForce RTX 5060 Ti @ 3.09 GHz (16GB)" /></li>
-        <li><img src="https://img.shields.io/badge/RAM-GSkill%2032GB%20DDR5%20(6000%20MT/s)-4C1AC0?style=for-the-badge&logo=gskill&logoColor=white&labelColor=1c1917" alt="RAM: 32GB DDR5 (6000 MT/s)" /></li>
-        <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Kingston%20SNVS2000G%202TB%20NVMe%20SSD-350F94?style=for-the-badge&logo=kingston&logoColor=white&labelColor=1c1917" alt="Storage Drive 1: Kingston SNVS2000G 2TB NVMe SSD" /></li>
-        <li><img src="https://img.shields.io/badge/Storage%20Drive%202-Kingston%20SNV3S1000G%201TB%20NVMe%20SSD-4013A7?style=for-the-badge&logo=kingston&logoColor=white&labelColor=1c1917" alt="Storage Drive 2: Kingston SNV3S1000G 1TB NVMe SSD" /></li>
-        <li><img src="https://img.shields.io/badge/Network%20&%20Internet%20Connection-2.5g%20NIC%20|%20ISP%20(▼~500/~100▲)-4013A7?style=for-the-badge&logo=network-wifi&logoColor=white&labelColor=1c1917" alt="Network: 2.5g NIC (▼~500/~100▲)" /></li>
-        <li><img src="https://img.shields.io/badge/Main%20IDE-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1c1917" alt="Main IDE: Visual Studio Code" /></li>
-      </ul>
-    </td>
-  </tr>
-</table> -->
-
-<!-- <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
-  <tr>
-    <th style="border: 1px solid #ddd; padding: 10px;">Laptop / Portable Setup</th>
-  </tr>
-  <tr>
-    <td align="left" style="border: 1px solid #ddd; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Home-9C51E3?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="OS: Windows 11 Home" /></li>
-        <li><img src="https://img.shields.io/badge/Host-Lenovo%2081WA-8F40E0?style=for-the-badge&logo=lenovo&logoColor=white&labelColor=1c1917" alt="Host: Lenovo 81WA" /></li>
-        <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="Kernel: WIN32NT (25H2)" /></li>
-        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.6.0%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white&labelColor=1c1917" alt="Shell: PowerShell 7.6.0 X64" /></li>
-        <li><img src="https://img.shields.io/badge/CPU-Intel%20Core%20i7--10510U%20@%201.8%20GHz%20(4C/8T)-6F28D7?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="CPU: Intel Core i7-10510U @ 1.8 GHz (4C, 8T)" /></li>
-        <li><img src="https://img.shields.io/badge/GPU%20Integrated-Intel%20UHD%20Graphics%20(4GB)-6320D3?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="GPU (Integrated): Intel UHD Graphics (4GB)" /></li>
-        <li><img src="https://img.shields.io/badge/RAM-Samsung%208GB%20DDR4%20(2667%20MT/s)-4C1AC0?style=for-the-badge&logo=samsung&logoColor=white&labelColor=1c1917" alt="RAM: Samsung 8GB DDR4 (2667 MT/s)" /></li>
-        <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Intel%20SSDPEKNW512GZ%20512%20GB%20NVMe%20SSD-350F94?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="Storage Drive 1: Intel SSDPEKNW512GZ 512 GB NVMe SSD" /></li>
-        <li><img src="https://img.shields.io/badge/Network%20%26%20Internet%20Connection-Intel%20Wireless--AC%209560%20|%20Wifi%20(▼~120/~100▲)%20-4013A7?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="Network: Intel Wireless-AC 9560 | Wi-Fi (▼~120/~100▲)" /></li>
-        <li><img src="https://img.shields.io/badge/Main%20IDE-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1c1917" alt="Main IDE: Visual Studio Code" /></li>
-      </ul>
-    </td>
-  </tr>
-</table> -->
-
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
     <tr>
@@ -175,7 +305,7 @@
     <tr>
       <td colspan="2" style="padding: 10px;">
         <h3 style="padding: 10px;">
-          I don’t claim expertise in all of the technologies listed below. Some I use regularly, some I’ve experimented with, and others are tools, platforms, or hardware I’m interested in or have worked with.
+          I don't claim expertise in all of the technologies listed below. Some I use regularly, some I've experimented with, and others are tools, platforms, or hardware I'm interested in or have worked with.
           <br>
           <br>
           For the companys and products such as the hardware they make I either own it, have used it, or favorite the company or product. Brands like Nintendo could include the games that are on it, or some of the hardware they make as a product such as the Nintendo Switch.
@@ -249,7 +379,7 @@
         <img src="https://img.shields.io/badge/NFS-7634D3?style=for-the-badge&logo=nfs&logoColor=white" alt="NFS" />
         <img src="https://img.shields.io/badge/Btrfs-7634D3?style=for-the-badge&logo=btrfs&logoColor=white" alt="Btrfs" />
         <img src="https://img.shields.io/badge/TMPFS-7634D3?style=for-the-badge&logo=tmpfs&logoColor=white" alt="TMPFS" />
-        <img src="https://img.shields.io/badge/EXT4-7634D3?style=for-the-badge&logo=ext4&logoColor=white" alt="EXT4" /> 
+        <img src="https://img.shields.io/badge/EXT4-7634D3?style=for-the-badge&logo=ext4&logoColor=white" alt="EXT4" />
         <img src="https://img.shields.io/badge/NTFS-8645EA?style=for-the-badge&logo=ntfs&logoColor=white" alt="NTFS" />
         <img src="https://img.shields.io/badge/FAT-7634D3?style=for-the-badge&logo=fat&logoColor=white" alt="FAT" />
         <img src="https://img.shields.io/badge/FAT--32-7634D3?style=for-the-badge&logo=fat&logoColor=white" alt="FAT 32" />
@@ -317,26 +447,28 @@
   </table>
 </div>
 
-## 📊 GitHub Stats & Discord Status
+<h2>📊 GitHub Stats &amp; Discord Status</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api?username=Ash1421&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-    </a>
   <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&show_icons=true&hide_border=true&langs_count=10&layout=compact&count_private=true&custom_title=Top%20Languages" alt="Top Languages"/>
-    </a>
   <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&stats_format=bytes&show_icons=true&hide_border=true&langs_count=10&layout=compact&count_private=true&custom_title=Top%20Languages%20in%20Bytes" alt="Top Languages in Bytes"/>
-    </a>
   <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=dark&layout=compact&card_width=650" alt="Compact Waka Time"/>
   </a>
-    <a href="https://github.com/Ash1421/Midnight-Ash">
+  <a href="https://github.com/Ash1421/Midnight-Ash">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=dark" alt="Midnight-Ash Pin"/>
   </a>
   <a href="https://github.com/Ash1421/QuickA-Cleanup">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=QuickA-Cleanup&theme=dark" alt="QuickA-Cleanup Pin"/>
   </a>
-   <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=1c1917&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Offline,%20or%20Busy" alt="Discord Presence"/>
+  <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=1c1917&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Offline,%20or%20Busy" alt="Discord Presence"/>
 </p>
+
+</div>
+</div>
+</body>
+</html>
