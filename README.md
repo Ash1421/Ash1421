@@ -61,57 +61,58 @@
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
+    <td align="center" style="border: 1px solid #ddd; padding: 15px; vertical-align: top;">
+      <h3>💜 Donations and support / funding are appreciated very much!</h3>
+      <p><strong>Minimum donation:</strong> $5 (NZD)</p>
+      <p><strong>Payment methods:</strong> Credit/Debit Card, PayPal, Apple Pay, Google Pay</p>
+      <p><strong>Supported Cards:</strong> Visa, Mastercard, Amex / American Express</p>
+      <p>Membership options are <strong>available</strong> for recurring support.</p>
+      <p><strong>You can donate via:</strong></p>
+      <a href="https://kofi.ash1421.com">
+        <img src="https://img.shields.io/badge/Ko--fi-Donate-FF69B4?style=for-the-badge&logo=kofi&logoColor=white&labelColor=1c1917" alt="Ko-fi">
+      </a>
+    </td>
+
+<td align="center" style="border: 1px solid #ddd; padding: 15px; vertical-align: top;">
+
+  <h3 style="color:#553BBB;">💜 Supported Payment Methods:</h3>
+
+  <div style="margin-bottom:8px;">
+    <div>
+    <a href="https://www.visa.co.nz/">
+      <img src="https://img.shields.io/badge/Visa%20Credit%2FDebit_Card-9C51E3?style=for-the-badge&logo=visa&logoColor=white&labelColor=1c1917" alt="Visa Credit/Debit Card">
+    </a>
+    <a href="https://www.mastercard.co.nz/">
+      <img src="https://img.shields.io/badge/Mastercard%20Credit%2FDebit_Card-8F40E0?style=for-the-badge&logo=mastercard&logoColor=white&labelColor=1c1917" alt="Mastercard Credit/Debit Card">
+    </a>
+    <a href="https://www.americanexpress.com/newzealand/">
+      <img src="https://img.shields.io/badge/Amex%2FAmerican%20Express%20Credit%2FDebit_Card-8433DD?style=for-the-badge&logo=american-express&logoColor=white&labelColor=1c1917" alt="Amex / American Express Credit/Debit Card">
+    </a>
+  </div>
+
+  <div>
+    <a href="https://www.paypal.com/nz/">
+      <img src="https://img.shields.io/badge/PayPal-Supported-7930DA?style=for-the-badge&logo=paypal&logoColor=white&labelColor=1c1917" alt="PayPal">
+    </a>
+    <a href="https://www.apple.com/nz/apple-pay/">
+      <img src="https://img.shields.io/badge/Apple_Pay-Supported-6F28D7?style=for-the-badge&logo=apple&logoColor=white&labelColor=1c1917" alt="Apple Pay">
+    </a>
+    <a href="https://pay.google.com/intl/en_nz/about/">
+      <img src="https://img.shields.io/badge/Google_Pay-Supported-6320D3?style=for-the-badge&logo=google-pay&logoColor=white&labelColor=1c1917" alt="Google Pay">
+    </a>
+  </div>
+
+</td>
+  </tr>
+</table>
+
+<table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
+  <tr>
     <td align="center" style="border: 1px solid #ddd; padding: 10px;">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&color=9B59B6&center=true&lines=Hi+there!+I'm+Ash+;Tech+enthusiast+and+gamer;Always+learning+new+things!" alt="Typing SVG">
     </td>
     <td align="center" style="border: 1px solid #ddd; padding: 10px;">
       <p><strong style="color:#551A8B; font-size:1.1em;">The badges on my profile are clickable.</strong> <br>Some of the stats or status are clickable too!</p>
-    </td>
-  </tr>
-</table>
-
-<table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
-  <tr>
-    <th style="border: 1px solid #ddd; padding: 10px;">My Personal Setup </th>
-  </tr>
-  <tr>
-    <td align="left" style="border: 1px solid #ddd; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Pro-9C51E3?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="OS: Windows 11 Pro" /></li>
-        <li><img src="https://img.shields.io/badge/Host-B850M%20EAGLE%20WIFI6E-8F40E0?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="Host: B850M EAGLE WIFI6E" /></li>
-        <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="Kernel: WIN32_NT (25H2)" /></li>
-        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.6.0%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white&labelColor=1c1917" alt="Shell: PowerShell 7.6.0 X64" /></li>
-        <li><img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%207%209700X%20(8C/16T)%20@%205.55%20GHz-6F28D7?style=for-the-badge&logo=amd&logoColor=white&labelColor=1c1917" alt="CPU: AMD Ryzen 7 9700X (8C, 16T) @ 5.55 GHz" /></li>
-        <li><img src="https://img.shields.io/badge/GPU%20Integrated-AMD%20Radeon(TM)%20Graphics%20(512MB)-6320D3?style=for-the-badge&logo=amd&logoColor=white&labelColor=1c1917" alt="GPU 1: AMD Radeon(TM) Graphics (512MB)" /></li>
-        <li><img src="https://img.shields.io/badge/GPU%20Dedicated-NVIDIA%20GeForce%20RTX%205060%20Ti%20@%203.09%20GHz%20(16GB)-5720CD?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1c1917" alt="GPU 2: NVIDIA GeForce RTX 5060 Ti @ 3.09 GHz (16GB)" /></li>
-        <li><img src="https://img.shields.io/badge/RAM-GSkill%2032GB%20DDR5%20(6000%20MT/s)-4C1AC0?style=for-the-badge&logo=gskill&logoColor=white&labelColor=1c1917" alt="RAM: 32GB DDR5 (6000 MT/s)" /></li>
-        <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Kingston%20SNVS2000G%202TB%20NVMe%20SSD-350F94?style=for-the-badge&logo=kingston&logoColor=white&labelColor=1c1917" alt="Storage Drive 1: Kingston SNVS2000G 2TB NVMe SSD" /></li>
-        <li><img src="https://img.shields.io/badge/Storage%20Drive%202-Kingston%20SNV3S1000G%201TB%20NVMe%20SSD-4013A7?style=for-the-badge&logo=kingston&logoColor=white&labelColor=1c1917" alt="Storage Drive 2: Kingston SNV3S1000G 1TB NVMe SSD" /></li>
-        <li><img src="https://img.shields.io/badge/Network%20&%20Internet%20Connection-2.5g%20NIC%20|%20ISP%20(▼~500/~100▲)-4013A7?style=for-the-badge&logo=network-wifi&logoColor=white&labelColor=1c1917" alt="Network: 2.5g NIC (▼~500/~100▲)" /></li>
-        <li><img src="https://img.shields.io/badge/Main%20IDE-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1c1917" alt="Main IDE: Visual Studio Code" /></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
-  <tr>
-    <th style="border: 1px solid #ddd; padding: 10px;">Laptop / Portable Setup</th>
-  </tr>
-  <tr>
-    <td align="left" style="border: 1px solid #ddd; padding: 10px;">
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li><img src="https://img.shields.io/badge/OS-Windows%2011%20Home-9C51E3?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="OS: Windows 11 Home" /></li>
-        <li><img src="https://img.shields.io/badge/Host-Lenovo%2081WA-8F40E0?style=for-the-badge&logo=lenovo&logoColor=white&labelColor=1c1917" alt="Host: Lenovo 81WA" /></li>
-        <li><img src="https://img.shields.io/badge/Kernel-WIN32NT%20(25H2)-8433DD?style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917" alt="Kernel: WIN32NT (25H2)" /></li>
-        <li><img src="https://img.shields.io/badge/Shell-PowerShell%207.6.0%20X64-7930DA?style=for-the-badge&logo=hyper&logoColor=white&labelColor=1c1917" alt="Shell: PowerShell 7.6.0 X64" /></li>
-        <li><img src="https://img.shields.io/badge/CPU-Intel%20Core%20i7--10510U%20@%201.8%20GHz%20(4C/8T)-6F28D7?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="CPU: Intel Core i7-10510U @ 1.8 GHz (4C, 8T)" /></li>
-        <li><img src="https://img.shields.io/badge/GPU%20Integrated-Intel%20UHD%20Graphics%20(4GB)-6320D3?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="GPU (Integrated): Intel UHD Graphics (4GB)" /></li>
-        <li><img src="https://img.shields.io/badge/RAM-Samsung%208GB%20DDR4%20(2667%20MT/s)-4C1AC0?style=for-the-badge&logo=samsung&logoColor=white&labelColor=1c1917" alt="RAM: Samsung 8GB DDR4 (2667 MT/s)" /></li>
-        <li><img src="https://img.shields.io/badge/Storage%20Drive%201-Intel%20SSDPEKNW512GZ%20512%20GB%20NVMe%20SSD-350F94?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="Storage Drive 1: Intel SSDPEKNW512GZ 512 GB NVMe SSD" /></li>
-        <li><img src="https://img.shields.io/badge/Network%20%26%20Internet%20Connection-Intel%20Wireless--AC%209560%20|%20Wifi%20(▼~120/~100▲)%20-4013A7?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="Network: Intel Wireless-AC 9560 | Wi-Fi (▼~120/~100▲)" /></li>
-        <li><img src="https://img.shields.io/badge/Main%20IDE-Visual_Studio_Code-350F94?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1c1917" alt="Main IDE: Visual Studio Code" /></li>
-      </ul>
     </td>
   </tr>
 </table>
@@ -125,10 +126,10 @@
     <tr>
       <td colspan="2" style="padding: 10px;">
         <h3 style="padding: 10px;">
-          I don't own or know all of the languages and frameworks, hardware, software, products, or anything metioned below but I have learned some of them partially and used most of them and own some of their products.
+          I don't claim expertise in all of the technologies listed below. Some I use regularly, some I've experimented with, and others are tools, platforms, or hardware I'm interested in or have worked with.
           <br>
           <br>
-          For the companys and products such as the hardware they make I either own it, have used it, or favorite the company or product. Brands like Steam could include the games that are on it, or some of the hardware they make as a product such as the Steamdeck.
+          For the companys and products such as the hardware they make I either own it, have used it, or favorite the company or product. Brands like Nintendo could include the games that are on it, or some of the hardware they make as a product such as the Nintendo Switch.
         </h3>
       </td>
     </tr>
@@ -199,7 +200,7 @@
         <img src="https://img.shields.io/badge/NFS-7634D3?style=for-the-badge&logo=nfs&logoColor=white" alt="NFS" />
         <img src="https://img.shields.io/badge/Btrfs-7634D3?style=for-the-badge&logo=btrfs&logoColor=white" alt="Btrfs" />
         <img src="https://img.shields.io/badge/TMPFS-7634D3?style=for-the-badge&logo=tmpfs&logoColor=white" alt="TMPFS" />
-        <img src="https://img.shields.io/badge/EXT4-7634D3?style=for-the-badge&logo=ext4&logoColor=white" alt="EXT4" /> 
+        <img src="https://img.shields.io/badge/EXT4-7634D3?style=for-the-badge&logo=ext4&logoColor=white" alt="EXT4" />
         <img src="https://img.shields.io/badge/NTFS-8645EA?style=for-the-badge&logo=ntfs&logoColor=white" alt="NTFS" />
         <img src="https://img.shields.io/badge/FAT-7634D3?style=for-the-badge&logo=fat&logoColor=white" alt="FAT" />
         <img src="https://img.shields.io/badge/FAT--32-7634D3?style=for-the-badge&logo=fat&logoColor=white" alt="FAT 32" />
@@ -267,26 +268,23 @@
   </table>
 </div>
 
-## 📊 GitHub Stats & Discord Status
+<h2>📊 GitHub Stats &amp; Discord Status</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api?username=Ash1421&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-    </a>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&show_icons=true&hide_border=true&layout=compact&count_private=true&custom_title=Top%20Languages" alt="Top Languages"/>
-    </a>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&stats_format=bytes&show_icons=true&hide_border=true&layout=compact&count_private=true&custom_title=Top%20Languages%20in%20Bytes" alt="Top Languages in Bytes"/>
-    </a>
-  <!-- <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&show_icons=true&hide_border=true&langs_count=10&layout=compact&count_private=true&custom_title=Top%20Languages" alt="Top Languages"/>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&stats_format=bytes&show_icons=true&hide_border=true&langs_count=10&layout=compact&count_private=true&custom_title=Top%20Languages%20in%20Bytes" alt="Top Languages in Bytes"/>
+  <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=dark&layout=compact&card_width=650" alt="Compact Waka Time"/>
-  </a> -->
-    <a href="https://github.com/Ash1421/Midnight-Ash">
+  </a>
+  <a href="https://github.com/Ash1421/Midnight-Ash">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=dark" alt="Midnight-Ash Pin"/>
   </a>
   <a href="https://github.com/Ash1421/QuickA-Cleanup">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=QuickA-Cleanup&theme=dark" alt="QuickA-Cleanup Pin"/>
   </a>
-   <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=1c1917&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Offline,%20or%20Busy" alt="Discord Presence"/>
+  <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=1c1917&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Offline,%20or%20Busy" alt="Discord Presence"/>
 </p>
