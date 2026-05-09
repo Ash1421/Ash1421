@@ -40,9 +40,6 @@
        <a href="https://www.twitch.tv/ash1421_" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/twitch/status/ash1421_?logo=twitch&style=for-the-badge&label=TWITCH+STATUS&color=9B59B6&logoColor=white&labelColor=1c1917" alt="TWITCH STATUS" />
       </a>
-       <a href="https://x.com/_Ashttv">
-      <img src="https://img.shields.io/badge/X%20/%20Twitter-7D39D6?style=for-the-badge&logo=x&logoColor=white&labelColor=1c1917" alt="X / Twitter" />
-      </a>
        <a href="https://discord.gg/xc4D33wBmA">
       <img src="https://img.shields.io/discord/1086533721726922793?style=for-the-badge&logo=discord&logoColor=white&label=Discord%20Server%20Invite&color=7D39D6&labelColor=1c1917" alt="Discord Server" />
       </a>
