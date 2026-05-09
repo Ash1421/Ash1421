@@ -143,7 +143,6 @@
         <img src="https://img.shields.io/badge/Python-3D0066?style=for-the-badge&logo=python&logoColor=white&labelColor=1c1917" alt="Python" />
         <img src="https://img.shields.io/badge/Swift-47007C?style=for-the-badge&logo=swift&logoColor=white&labelColor=1c1917" alt="Swift" />
         <img src="https://img.shields.io/badge/C-380059?style=for-the-badge&logo=C&logoColor=white&labelColor=1c1917" alt="C" />
-        <img src="https://img.shields.io/badge/C++-2E004B?style=for-the-badge&logo=c-plus-plus%2B%2B%2B%2B&logoColor=white&labelColor=1c1917" alt="C++" />
         <img src="https://img.shields.io/badge/JavaScript-400066?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1c1917" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Kotlin-420073?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1c1917" alt="Kotlin" />
         <img src="https://img.shields.io/badge/Go-36005A?style=for-the-badge&logo=go&logoColor=white&labelColor=1c1917" alt="Go" />
@@ -157,6 +156,7 @@
         <img src="https://img.shields.io/badge/CSS-380059?style=for-the-badge&logo=css&logoColor=white&labelColor=1c1917" alt="CSS" />
         <img src="https://img.shields.io/badge/Eclipse%20Adoptium-551A8B?style=for-the-badge&logo=eclipse-adoptium&logoColor=white&labelColor=1c1917" alt="Eclipse Adoptium" />
         <img src="https://img.shields.io/badge/C%23-430073?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/C++-2E004B?style=for-the-badge&logo=c-plus-plus%2B%2B%2B%2B&logoColor=white&labelColor=1c1917" alt="C++" />
         <img src="https://img.shields.io/badge/Java-42006B?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/INI-4D1478?style=for-the-badge&logo=ini&logoColor=white" alt="INI" />
       </td>
@@ -249,7 +249,6 @@
         <img src="https://img.shields.io/badge/ASUS-8B3D6E?style=for-the-badge&logo=asus&logoColor=white&labelColor=1c1917" alt="ASUS" />
         <img src="https://img.shields.io/badge/Samsung-8B3D6E?style=for-the-badge&logo=samsung&logoColor=white&labelColor=1c1917" alt="Samsung" />
         <img src="https://img.shields.io/badge/Lenovo-8B3D6E?style=for-the-badge&logo=lenovo&logoColor=white&labelColor=1c1917" alt="Lenovo" />
-        <img src="https://img.shields.io/badge/Logitech-8B3D6E?style=for-the-badge&logo=logitech&logoColor=white&labelColor=1c1917" alt="Logitech" />
         <img src="https://img.shields.io/badge/HP-8B3D6E?style=for-the-badge&logo=hp&logoColor=white&labelColor=1c1917" alt="HP" />
         <img src="https://img.shields.io/badge/SteelSeries-8B3D6E?style=for-the-badge&logo=steelseries&logoColor=white&labelColor=1c1917" alt="SteelSeries" />
         <img src="https://img.shields.io/badge/PlayStation-8B3D6E?style=for-the-badge&logo=playstation&logoColor=white&labelColor=1c1917" alt="PlayStation" />
@@ -268,6 +267,7 @@
         <img src="https://img.shields.io/badge/GSkill-8B3D6E?style=for-the-badge&logo=gskill&logoColor=white" alt="GSkill" />
         <img src="https://img.shields.io/badge/Kingston-8B3D6E?style=for-the-badge&logo=kingston&logoColor=white" alt="Kingston" />
         <img src="https://img.shields.io/badge/Realtek-8B3D6E?style=for-the-badge&logo=realtek&logoColor=white" alt="Realtek" />
+        <img src="https://img.shields.io/badge/Logitech-8B3D6E?style=for-the-badge&logo=logitech&logoColor=white&labelColor=1c1917" alt="Logitech" />
   </table>
 </div>
 
