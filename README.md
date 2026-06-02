@@ -238,6 +238,7 @@
       <td style="border: 1px solid #ddd; padding: 10px;">
         <img src="https://img.shields.io/badge/NVIDIA-8B3D6E?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1c1917" alt="NVIDIA" />
         <img src="https://img.shields.io/badge/Ryzen-8B3D6E?style=for-the-badge&logo=amd&logoColor=white&labelColor=1c1917" alt="Ryzen" />
+        <img src="https://img.shields.io/badge/Framework-8B3D6E?style=for-the-badge&logo=framework&logoColor=white&labelColor=1c1917" alt="Framework" />
         <img src="https://img.shields.io/badge/Intel-8B3D6E?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="Intel" />
         <img src="https://img.shields.io/badge/Cisco-8B3D6E?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1c1917" alt="Cisco" />
         <img src="https://img.shields.io/badge/Fortinet-8B3D6E?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=1c1917" alt="Fortinet" />
@@ -277,9 +278,9 @@
 <p align="center">
   <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&show_icons=true&hide_border=true&langs_count=10&layout=compact&count_private=true&custom_title=Top%20Languages" alt="Top Languages"/>
   <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&stats_format=bytes&show_icons=true&hide_border=true&langs_count=10&layout=compact&count_private=true&custom_title=Top%20Languages%20in%20Bytes" alt="Top Languages in Bytes"/>
-  <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
+  <!-- <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=dark&layout=compact&card_width=650" alt="Compact Waka Time"/>
-  </a>
+  </a> -->
   <a href="https://github.com/Ash1421/Midnight-Ash">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=dark" alt="Midnight-Ash Pin"/>
   </a>
