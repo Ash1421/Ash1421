@@ -25,6 +25,8 @@
       </a>
       <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge&labelColor=1c1917" alt="Built with love" />
       </a>
+        <a href="https://frame.work">
+      <img src="https://img.shields.io/badge/Framework-Fan-9B59B6?style=for-the-badge&logo=framework&logoColor=white&labelColor=1c1917" alt="Framework Fan" />
        <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">
       <img src="https://img.shields.io/badge/FOSS-Fan-9B59B6?style=for-the-badge&logo=foss&logoColor=white&labelColor=1c1917" alt="FOSS" />
       </a>
