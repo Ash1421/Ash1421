@@ -23,19 +23,7 @@
         <a href="https://discord.com/users/730744444134433994">
       <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F616485235982467085&query=%24.data.discord_status&style=for-the-badge&logo=discord&logoColor=white&label=Discord%20User&suffix=%20|%20@%20Ash1421&color=9B59B6&labelColor=1c1917" alt="Discord User @ash1421" />
       </a>
-      <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge&labelColor=1c1917" alt="Built with love" />
-      </a>
-       <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">
-      <img src="https://img.shields.io/badge/FOSS-Fan-9B59B6?style=for-the-badge&logo=foss&logoColor=white&labelColor=1c1917" alt="FOSS" />
-      </a>
-       <a href="https://opensource.org/about">
-      <img src="https://img.shields.io/badge/Open%20Source-Fan-9B59B6?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=1c1917" alt="Open Source" />
-      </a>
-      <a href="https://ash1421.com">
-        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=My%20Website&labelColor=1c1917" alt="My Website" />
-      </a>
-      <a href="https://theme.ash1421.com">
-        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ftheme.ash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=Theme%20Website&labelColor=1c1917" alt="Theme Website" />
+      <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1917" alt="Built with love" />
       </a>
        <a href="https://www.twitch.tv/ash1421_" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/twitch/status/ash1421_?logo=twitch&style=for-the-badge&label=TWITCH+STATUS&color=9B59B6&logoColor=white&labelColor=1c1917" alt="TWITCH STATUS" />
@@ -58,6 +46,28 @@
     </td>
   </tr>
 </table>
+
+<table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
+<tr>
+  <td align="center" style="border-collapse: collapse; border: 1px solid #ddd;">
+       <a href="https://frame.work">
+      <img src="https://img.shields.io/badge/Framework-Fan-9B59B6?style=for-the-badge&logo=framework&logoColor=white&labelColor=1c1917" alt="Framework Fan" />
+       <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">
+      <img src="https://img.shields.io/badge/FOSS-Fan-9B59B6?style=for-the-badge&logo=foss&logoColor=white&labelColor=1c1917" alt="FOSS" />
+      </a>
+       <a href="https://opensource.org/about">
+      <img src="https://img.shields.io/badge/Open%20Source-Fan-9B59B6?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=1c1917" alt="Open Source" />
+      </a>
+  </td>
+  <td align="center" style="border-collapse: collapse; border: 1px solid #ddd;">
+      <a href="https://ash1421.com">
+        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=My%20Website&labelColor=1c1917" alt="My Website" />
+      </a>
+      <a href="https://theme.ash1421.com">
+        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ftheme.ash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=Theme%20Website&labelColor=1c1917" alt="Theme Website" />
+      </a>
+  </td>
+</tr>
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
@@ -241,6 +251,9 @@
         <img src="https://img.shields.io/badge/Framework-8B3D6E?style=for-the-badge&logo=framework&logoColor=white&labelColor=1c1917" alt="Framework" />
         <img src="https://img.shields.io/badge/Intel-8B3D6E?style=for-the-badge&logo=intel&logoColor=white&labelColor=1c1917" alt="Intel" />
         <img src="https://img.shields.io/badge/Cisco-8B3D6E?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1c1917" alt="Cisco" />
+        <img src="https://img.shields.io/badge/Cloudflare-8B3D6E?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=1c1917" alt="Cloudflare" />
+        <a href="https://one.one.one.one/">
+        <img src="https://img.shields.io/badge/Cloudflare-Warp-8B3D6E?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=1c1917" alt="Cloudflare Warp" />
         <img src="https://img.shields.io/badge/Fortinet-8B3D6E?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=1c1917" alt="Fortinet" />
         <img src="https://img.shields.io/badge/Ubiqiti-8B3D6E?style=for-the-badge&logo=ubiquiti&logoColor=white&labelColor=1c1917" alt="Ubiqiti" />
         <img src="https://img.shields.io/badge/Raspberry%20Pi-8B3D6E?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=1c1917" alt="Raspberry Pi" />
