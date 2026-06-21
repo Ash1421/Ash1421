@@ -25,10 +25,11 @@
       </a>
       <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1917" alt="Built with love" />
       </a>
+      <td>
        <a href="https://www.twitch.tv/ash1421_" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/twitch/status/ash1421_?logo=twitch&style=for-the-badge&label=TWITCH+STATUS&color=9B59B6&logoColor=white&labelColor=1c1917" alt="TWITCH STATUS" />
       </a>
-       <a href="https://discord.gg/xc4D33wBmA">
+       <a href="https://rb.ash1421.com/discord">
       <img src="https://img.shields.io/discord/1086533721726922793?style=for-the-badge&logo=discord&logoColor=white&label=Discord%20Server%20Invite&color=7D39D6&labelColor=1c1917" alt="Discord Server" />
       </a>
        <a href="https://bsky.app/profile/ash1421.bsky.social">
@@ -136,10 +137,10 @@
     <tr>
       <td colspan="2" style="padding: 10px;">
         <h3 style="padding: 10px;">
-          I don't claim expertise in all of the technologies listed below. Some I use regularly, some I've experimented with, and others are tools, platforms, or hardware I'm interested in or have worked with.
+          I don't claim expertise in all of the technologies listed below. Some I use regularly, some I've experimented with, and others are tools, platforms, software/hardware/firmware that I'm interested in or have worked with.
           <br>
           <br>
-          For the companys and products such as the hardware they make I either own it, have used it, or favorite the company or product. Brands like Nintendo could include the games that are on it, or some of the hardware they make as a product such as the Nintendo Switch.
+          For the companys and products such as the hardware they make I either own it, have used it, or favorite the company or product. Brands like Framework could include the firmware/hardware that they make, and some of the hardware sell as a product is the <a href="https://frame.work/laptop13pro/"> <b>Framework 13 Pro</b>.
         </h3>
       </td>
     </tr>
