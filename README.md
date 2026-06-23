@@ -286,20 +286,24 @@
 <h2>📊 GitHub Stats &amp; Discord Status</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api?username=Ash1421&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api?username=Ash1421&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
+<!-- <p align="center">
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api?username=Ash1421&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</p> -->
+
 <p align="center">
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&show_icons=true&hide_border=true&langs_count=10&layout=compact&count_private=true&custom_title=Top%20Languages" alt="Top Languages"/>
-  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=dark&stats_format=bytes&show_icons=true&hide_border=true&langs_count=10&layout=compact&count_private=true&custom_title=Top%20Languages%20in%20Bytes" alt="Top Languages in Bytes"/>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=midnight-purple&show_icons=true&hide_border=true&langs_count=10&layout=compact&count_private=true&custom_title=Top%20Languages" alt="Top Languages"/>
+  <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/top-langs/?username=Ash1421&theme=midnight-purple&stats_format=bytes&show_icons=true&hide_border=true&langs_count=10&layout=compact&count_private=true&custom_title=Top%20Languages%20in%20Bytes" alt="Top Languages in Bytes"/>
   <!-- <a href="https://wakatime.com/@dfdffe14-322b-4a5b-aea8-bfecd3434d3f">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/wakatime?username=Ash1421&theme=dark&layout=compact&card_width=650" alt="Compact Waka Time"/>
   </a> -->
   <a href="https://github.com/Ash1421/Midnight-Ash">
-    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=dark" alt="Midnight-Ash Pin"/>
+    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Midnight-Ash&theme=midnight-purple" alt="Midnight-Ash Pin"/>
   </a>
   <a href="https://github.com/Ash1421/QuickA-Cleanup">
-    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=QuickA-Cleanup&theme=dark" alt="QuickA-Cleanup Pin"/>
+    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=QuickA-Cleanup&theme=midnight-purple" alt="QuickA-Cleanup Pin"/>
   </a>
   <!-- <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=1c1917&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Offline,%20or%20Busy" alt="Discord Presence"/>
 </p> -->
