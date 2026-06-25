@@ -283,7 +283,7 @@
   </table>
 </div>
 
-<h2>📊 GitHub Stats &amp; Discord Status</h2>
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api?username=Ash1421&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -304,6 +304,9 @@
   </a>
   <a href="https://github.com/Ash1421/QuickA-Cleanup">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=QuickA-Cleanup&theme=midnight-purple" alt="QuickA-Cleanup Pin"/>
+  </a>
+    <a href="https://github.com/Ash1421/TZ-Convert">
+    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=TZ-Convert&theme=midnight-purple" alt="TZ-Convert Pin"/>
   </a>
   <!-- <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=1c1917&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Offline,%20or%20Busy" alt="Discord Presence"/>
 </p> -->
