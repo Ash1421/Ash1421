@@ -62,10 +62,13 @@
   </td>
   <td align="center" style="border-collapse: collapse; border: 1px solid #ddd;">
       <a href="https://ash1421.com">
-        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=My%20Website&labelColor=1c1917" alt="My Website" />
+        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=Personal%20Website&labelColor=1c1917" alt="Personal Website" />
       </a>
       <a href="https://theme.ash1421.com">
         <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ftheme.ash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=Theme%20Website&labelColor=1c1917" alt="Theme Website" />
+      </a>
+      <a href="https://tzc.ash1421.com">
+        <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ftzc.ash1421.com&up_message=UP&down_message=DOWN&logo=firefox&logoColor=white&up_color=9B59B6&down_color=red&label=Timezone%20Website&labelColor=1c1917" alt="Timezone Website" />
       </a>
   </td>
 </tr>
