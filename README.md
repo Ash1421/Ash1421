@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
   <tr>
     <td>
       <h1>Hi there! 👋 I'm Ash</h1>
@@ -127,9 +127,17 @@
     </td>
     <td align="center" style="border: 1px solid #ddd; padding: 10px;">
       <p><strong style="color:#551A8B; font-size:1.1em;">The badges on my profile are clickable.</strong> <br>Some of the stats or status are clickable too!</p>
+          <a href="https://example.com/">
+      <img src="https://img.shields.io/badge/Example%20Badge-Click%20Me-6320D3?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1c1917" alt="Example Badge - Click Me">
+    </a>
+      <p><em>This badge takes you to https://example.com</em></p>
+      <p><em>"example.com is owned by Cloudflare"</em></p>
     </td>
   </tr>
 </table>
+
+<details>
+<summary><h2 style="color:#551A8B;">📚 Tech Stack</h2></summary>
 
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: 1px solid #ddd;">
@@ -285,6 +293,7 @@
         <img src="https://img.shields.io/badge/Logitech-8B3D6E?style=for-the-badge&logo=logitech&logoColor=white&labelColor=1c1917" alt="Logitech" />
   </table>
 </div>
+</details>
 
 <h2>📊 GitHub Stats</h2>
 
