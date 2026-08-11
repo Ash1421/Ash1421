@@ -320,5 +320,9 @@
     <a href="https://github.com/Ash1421/TZ-Convert">
     <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=TZ-Convert&theme=midnight-purple" alt="TZ-Convert Pin"/>
   </a>
+      <a href="https://github.com/Ash1421/Win-Tweaks">
+    <img src="https://github-readme-stats-ash1421s-projects.vercel.app/api/pin/?username=Ash1421&repo=Win-Tweaks&theme=midnight-purple" alt="Win-Tweaks Pin"/>
+  </a>
+</p>
   <!-- <img src="https://lanyard.cnrad.dev/api/616485235982467085?theme=dark&bg=1c1917&borderRadius=10px&hideDiscrim=false&idleMessage=Currently%20Offline,%20or%20Busy" alt="Discord Presence"/>
 </p> -->
