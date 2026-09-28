@@ -34,7 +34,7 @@
       <img src="https://img.shields.io/twitch/status/ash1421_?logo=twitch&style=for-the-badge&label=TWITCH+STATUS&color=9B59B6&logoColor=white&labelColor=1c1917" alt="TWITCH STATUS" />
       </a>
        <a href="https://rb.ash1421.com/discord">
-      <img src="https://img.shields.io/discord/1086533721726922793?style=for-the-badge&logo=discord&logoColor=white&label=Discord%20Server%20Invite&color=7D39D6&labelColor=1c1917" alt="Discord Server" />
+      <img src="https://img.shields.io/discord/1086533721726922793?style=for-the-badge&logo=discord&logoColor=white&label=Discord%20Server&color=7D39D6&labelColor=1c1917" alt="Discord Server" />
       </a>
        <a href="https://bsky.app/profile/ash1421.bsky.social">
       <img src="https://img.shields.io/badge/Bluesky-6829B1?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=1c1917" alt="Bluesky" />
