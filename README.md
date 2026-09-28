@@ -58,7 +58,7 @@
        <a href="https://frame.work">
       <img src="https://img.shields.io/badge/Framework-Fan-9B59B6?style=for-the-badge&logo=framework&logoColor=white&labelColor=1c1917" alt="Framework Fan" />
        <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">
-      <img src="https://img.shields.io/badge/FOSS-Fan-9B59B6?style=for-the-badge&logo=foss&logoColor=white&labelColor=1c1917" alt="FOSS" />
+      <img src="https://img.shields.io/badge/FOSS-Fan-9B59B6?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=1c1917" alt="FOSS" />
       </a>
        <a href="https://opensource.org/about">
       <img src="https://img.shields.io/badge/Open%20Source-Fan-9B59B6?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=1c1917" alt="Open Source" />
